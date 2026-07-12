@@ -1,0 +1,1001 @@
+order_id,date,item_name,item_type,item_price,quantity,transaction_amount,transaction_type,received_by,time_of_sale,day_of_week,month,order_size,workload_level
+1,2022-03-07,Aalopuri,Fastfood,$20,13,$260,NULL,Mr.,Night,Monday,March,Large,High
+2,2022-08-23,Vadapav,Fastfood,$20,15,$300,Cash,Mr.,Afternoon,Tuesday,August,Large,High
+3,2022-11-20,Vadapav,Fastfood,$20,1,$20,Cash,Mr.,Afternoon,Sunday,November,Small,Low
+4,2023-03-02,Sugarcane Juice,Beverages,$25,6,$150,Online,Mr.,Night,Thursday,March,Medium,Medium
+5,2022-02-10,Sugarcane Juice,Beverages,$25,8,$200,Online,Mr.,Evening,Thursday,February,Medium,Medium
+6,2022-11-14,Vadapav,Fastfood,$20,10,$200,Cash,Mr.,Evening,Monday,November,Medium,Medium
+7,2022-03-05,Sugarcane Juice,Beverages,$25,9,$225,Cash,Mr.,Evening,Saturday,March,Medium,Medium
+8,2022-12-22,Panipuri,Fastfood,$20,14,$280,Online,Mr.,Night,Thursday,December,Large,High
+9,2022-10-06,Panipuri,Fastfood,$20,1,$20,Cash,Mrs.,Morning,Thursday,October,Small,Low
+10,2022-09-16,Panipuri,Fastfood,$20,5,$100,Online,Mr.,Afternoon,Friday,September,Small,Low
+11,2022-01-12,Frankie,Fastfood,$50,8,$400,Online,Mrs.,Afternoon,Wednesday,January,Medium,Medium
+12,2022-12-07,Vadapav,Fastfood,$20,8,$160,Online,Mrs.,Night,Wednesday,December,Medium,Medium
+13,2022-12-22,Panipuri,Fastfood,$20,9,$180,Online,Mrs.,Afternoon,Thursday,December,Medium,Medium
+14,2022-11-25,Frankie,Fastfood,$50,4,$200,Online,Mr.,Morning,Friday,November,Small,Low
+15,2023-03-02,Aalopuri,Fastfood,$20,3,$60,Cash,Mrs.,Evening,Thursday,March,Small,Low
+16,2022-04-14,Sandwich,Fastfood,$60,11,$660,NULL,Mrs.,Midnight,Thursday,April,Large,High
+17,2022-10-16,Panipuri,Fastfood,$20,11,$220,Cash,Mrs.,Morning,Sunday,October,Large,High
+18,2022-05-11,Panipuri,Fastfood,$20,10,$200,Cash,Mrs.,Night,Wednesday,May,Medium,Medium
+19,2022-08-22,Panipuri,Fastfood,$20,11,$220,Cash,Mrs.,Night,Monday,August,Large,High
+20,2022-09-15,Cold Coffee,Beverages,$40,10,$400,Online,Mr.,Night,Thursday,September,Medium,Medium
+21,2022-12-21,Cold Coffee,Beverages,$40,15,$600,Cash,Mr.,Evening,Wednesday,December,Large,High
+22,2022-04-10,Sugarcane Juice,Beverages,$25,12,$300,Online,Mr.,Evening,Sunday,April,Large,High
+23,2022-05-26,Sandwich,Fastfood,$60,3,$180,Online,Mr.,Midnight,Thursday,May,Small,Low
+24,2023-11-02,Sugarcane Juice,Beverages,$25,10,$250,Online,Mr.,Afternoon,Thursday,November,Medium,Medium
+25,2022-08-31,Sandwich,Fastfood,$60,1,$60,Online,Mrs.,Evening,Wednesday,August,Small,Low
+26,2022-08-18,Sugarcane Juice,Beverages,$25,4,$100,Cash,Mr.,Afternoon,Thursday,August,Small,Low
+27,2022-12-10,Cold Coffee,Beverages,$40,11,$440,Online,Mrs.,Afternoon,Saturday,December,Large,High
+28,2023-06-01,Cold Coffee,Beverages,$40,10,$400,Online,Mrs.,Afternoon,Thursday,June,Medium,Medium
+29,2023-10-02,Sugarcane Juice,Beverages,$25,9,$225,Online,Mr.,Afternoon,Monday,October,Medium,Medium
+30,2023-01-28,Frankie,Fastfood,$50,2,$100,Cash,Mrs.,Night,Saturday,January,Small,Low
+31,2022-09-14,Cold Coffee,Beverages,$40,13,$520,Online,Mrs.,Evening,Wednesday,September,Large,High
+32,2022-06-05,Aalopuri,Fastfood,$20,4,$80,NULL,Mr.,Morning,Sunday,June,Small,Low
+33,2023-05-02,Aalopuri,Fastfood,$20,13,$260,Online,Mr.,Night,Tuesday,May,Large,High
+34,2023-04-02,Frankie,Fastfood,$50,12,$600,Online,Mrs.,Evening,Sunday,April,Large,High
+35,2022-05-22,Vadapav,Fastfood,$20,8,$160,Cash,Mr.,Morning,Sunday,May,Medium,Medium
+36,2022-02-07,Cold Coffee,Beverages,$40,10,$400,Online,Mr.,Afternoon,Monday,February,Medium,Medium
+37,2023-05-01,Frankie,Fastfood,$50,10,$500,Cash,Mr.,Night,Monday,May,Medium,Medium
+38,2023-08-03,Panipuri,Fastfood,$20,12,$240,Online,Mrs.,Night,Thursday,August,Large,High
+39,2022-05-14,Vadapav,Fastfood,$20,2,$40,Online,Mr.,Evening,Saturday,May,Small,Low
+40,2023-05-02,Sandwich,Fastfood,$60,5,$300,Online,Mrs.,Night,Tuesday,May,Small,Low
+41,2022-11-13,Cold Coffee,Beverages,$40,11,$440,NULL,Mr.,Afternoon,Sunday,November,Large,High
+42,2022-09-05,Aalopuri,Fastfood,$20,8,$160,Online,Mrs.,Night,Monday,September,Medium,Medium
+43,2022-05-26,Vadapav,Fastfood,$20,1,$20,Cash,Mr.,Night,Thursday,May,Small,Low
+44,2022-08-28,Cold Coffee,Beverages,$40,12,$480,Cash,Mr.,Evening,Sunday,August,Large,High
+45,2022-08-15,Sugarcane Juice,Beverages,$25,6,$150,Cash,Mrs.,Afternoon,Monday,August,Medium,Medium
+46,2022-07-05,Vadapav,Fastfood,$20,7,$140,Cash,Mr.,Evening,Tuesday,July,Medium,Medium
+47,2022-10-07,Sandwich,Fastfood,$60,7,$420,NULL,Mr.,Morning,Friday,October,Medium,Medium
+48,2023-02-23,Sandwich,Fastfood,$60,14,$840,Online,Mr.,Afternoon,Thursday,February,Large,High
+49,2022-06-11,Frankie,Fastfood,$50,4,$200,Online,Mrs.,Morning,Saturday,June,Small,Low
+50,2022-02-11,Vadapav,Fastfood,$20,8,$160,Cash,Mrs.,Midnight,Friday,February,Medium,Medium
+51,2022-05-16,Frankie,Fastfood,$50,15,$750,Online,Mrs.,Morning,Monday,May,Large,High
+52,2023-03-16,Sugarcane Juice,Beverages,$25,12,$300,Cash,Mrs.,Midnight,Thursday,March,Large,High
+53,2022-07-26,Aalopuri,Fastfood,$20,13,$260,Cash,Mr.,Afternoon,Tuesday,July,Large,High
+54,2022-12-28,Panipuri,Fastfood,$20,14,$280,Online,Mrs.,Morning,Wednesday,December,Large,High
+55,2022-07-05,Sandwich,Fastfood,$60,10,$600,Cash,Mr.,Night,Tuesday,July,Medium,Medium
+56,2022-11-23,Panipuri,Fastfood,$20,11,$220,Cash,Mrs.,Midnight,Wednesday,November,Large,High
+57,2022-04-08,Panipuri,Fastfood,$20,14,$280,Online,Mrs.,Morning,Friday,April,Large,High
+58,2023-03-02,Vadapav,Fastfood,$20,6,$120,Online,Mrs.,Morning,Thursday,March,Medium,Medium
+59,2022-01-07,Vadapav,Fastfood,$20,5,$100,Cash,Mr.,Morning,Friday,January,Small,Low
+60,2022-11-06,Cold Coffee,Beverages,$40,2,$80,Online,Mr.,Night,Sunday,November,Small,Low
+61,2022-12-25,Vadapav,Fastfood,$20,14,$280,Cash,Mrs.,Afternoon,Sunday,December,Large,High
+62,2022-10-17,Sugarcane Juice,Beverages,$25,3,$75,Cash,Mr.,Afternoon,Monday,October,Small,Low
+63,2022-01-12,Sandwich,Fastfood,$60,7,$420,Online,Mrs.,Morning,Wednesday,January,Medium,Medium
+64,2022-09-12,Cold Coffee,Beverages,$40,1,$40,Cash,Mr.,Morning,Monday,September,Small,Low
+65,2022-07-25,Aalopuri,Fastfood,$20,4,$80,Cash,Mr.,Morning,Monday,July,Small,Low
+66,2022-05-04,Frankie,Fastfood,$50,2,$100,Cash,Mrs.,Morning,Wednesday,May,Small,Low
+67,2022-05-15,Aalopuri,Fastfood,$20,9,$180,Cash,Mr.,Midnight,Sunday,May,Medium,Medium
+68,2022-12-17,Cold Coffee,Beverages,$40,2,$80,NULL,Mr.,Night,Saturday,December,Small,Low
+69,2023-10-01,Vadapav,Fastfood,$20,7,$140,Cash,Mr.,Midnight,Sunday,October,Medium,Medium
+70,2022-09-05,Cold Coffee,Beverages,$40,14,$560,NULL,Mrs.,Morning,Monday,September,Large,High
+71,2022-05-12,Cold Coffee,Beverages,$40,6,$240,Online,Mr.,Night,Thursday,May,Medium,Medium
+72,2023-09-03,Frankie,Fastfood,$50,13,$650,Online,Mr.,Afternoon,Sunday,September,Large,High
+73,2022-07-29,Panipuri,Fastfood,$20,5,$100,Cash,Mr.,Midnight,Friday,July,Small,Low
+74,2022-08-15,Cold Coffee,Beverages,$40,10,$400,Online,Mrs.,Evening,Monday,August,Medium,Medium
+75,2023-02-02,Cold Coffee,Beverages,$40,6,$240,Online,Mrs.,Afternoon,Thursday,February,Medium,Medium
+76,2022-08-17,Vadapav,Fastfood,$20,9,$180,Online,Mr.,Morning,Wednesday,August,Medium,Medium
+77,2023-04-02,Sugarcane Juice,Beverages,$25,12,$300,Cash,Mrs.,Midnight,Sunday,April,Large,High
+78,2022-01-10,Vadapav,Fastfood,$20,4,$80,Cash,Mrs.,Evening,Monday,January,Small,Low
+79,2022-05-11,Panipuri,Fastfood,$20,6,$120,Online,Mr.,Night,Wednesday,May,Medium,Medium
+80,2022-05-24,Frankie,Fastfood,$50,13,$650,Cash,Mr.,Evening,Tuesday,May,Large,High
+81,2022-11-19,Frankie,Fastfood,$50,12,$600,Online,Mrs.,Night,Saturday,November,Large,High
+82,2022-07-17,Frankie,Fastfood,$50,3,$150,Online,Mrs.,Evening,Sunday,July,Small,Low
+83,2022-11-13,Frankie,Fastfood,$50,11,$550,NULL,Mr.,Evening,Sunday,November,Large,High
+84,2023-03-03,Panipuri,Fastfood,$20,13,$260,Cash,Mr.,Midnight,Friday,March,Large,High
+85,2022-08-19,Aalopuri,Fastfood,$20,3,$60,Online,Mrs.,Night,Friday,August,Small,Low
+86,2023-09-03,Aalopuri,Fastfood,$20,15,$300,Cash,Mr.,Morning,Sunday,September,Large,High
+87,2022-05-29,Aalopuri,Fastfood,$20,8,$160,Cash,Mr.,Night,Sunday,May,Medium,Medium
+88,2022-07-07,Cold Coffee,Beverages,$40,10,$400,Cash,Mr.,Evening,Thursday,July,Medium,Medium
+89,2022-12-23,Aalopuri,Fastfood,$20,14,$280,Cash,Mr.,Evening,Friday,December,Large,High
+90,2022-10-29,Vadapav,Fastfood,$20,15,$300,Online,Mr.,Night,Saturday,October,Large,High
+91,2023-03-22,Cold Coffee,Beverages,$40,6,$240,NULL,Mrs.,Evening,Wednesday,March,Medium,Medium
+92,2022-05-13,Aalopuri,Fastfood,$20,15,$300,Cash,Mr.,Afternoon,Friday,May,Large,High
+93,2022-03-07,Cold Coffee,Beverages,$40,2,$80,Online,Mrs.,Midnight,Monday,March,Small,Low
+94,2022-09-14,Aalopuri,Fastfood,$20,15,$300,NULL,Mrs.,Night,Wednesday,September,Large,High
+95,2022-12-05,Sugarcane Juice,Beverages,$25,8,$200,Online,Mr.,Night,Monday,December,Medium,Medium
+96,2022-08-22,Sandwich,Fastfood,$60,15,$900,NULL,Mr.,Morning,Monday,August,Large,High
+97,2023-03-29,Cold Coffee,Beverages,$40,13,$520,Online,Mr.,Evening,Wednesday,March,Large,High
+98,2022-12-24,Vadapav,Fastfood,$20,1,$20,Online,Mr.,Morning,Saturday,December,Small,Low
+99,2022-11-09,Sugarcane Juice,Beverages,$25,3,$75,Cash,Mr.,Evening,Wednesday,November,Small,Low
+100,2022-08-05,Panipuri,Fastfood,$20,11,$220,NULL,Mr.,Morning,Friday,August,Large,High
+101,2023-03-26,Vadapav,Fastfood,$20,3,$60,Online,Mrs.,Morning,Sunday,March,Small,Low
+102,2023-03-13,Cold Coffee,Beverages,$40,14,$560,Cash,Mr.,Morning,Monday,March,Large,High
+103,2023-03-14,Cold Coffee,Beverages,$40,8,$320,Online,Mrs.,Midnight,Tuesday,March,Medium,Medium
+104,2022-10-27,Cold Coffee,Beverages,$40,13,$520,Online,Mr.,Morning,Thursday,October,Large,High
+105,2023-01-25,Panipuri,Fastfood,$20,8,$160,Cash,Mrs.,Evening,Wednesday,January,Medium,Medium
+106,2023-02-25,Frankie,Fastfood,$50,9,$450,Cash,Mrs.,Evening,Saturday,February,Medium,Medium
+107,2023-07-02,Sandwich,Fastfood,$60,4,$240,Online,Mr.,Afternoon,Sunday,July,Small,Low
+108,2022-06-08,Panipuri,Fastfood,$20,5,$100,Online,Mr.,Afternoon,Wednesday,June,Small,Low
+109,2022-08-08,Cold Coffee,Beverages,$40,12,$480,NULL,Mr.,Afternoon,Monday,August,Large,High
+110,2022-11-16,Panipuri,Fastfood,$20,2,$40,Online,Mrs.,Morning,Wednesday,November,Small,Low
+111,2022-04-09,Sandwich,Fastfood,$60,8,$480,Cash,Mrs.,Midnight,Saturday,April,Medium,Medium
+112,2023-02-24,Sandwich,Fastfood,$60,7,$420,Cash,Mr.,Morning,Friday,February,Medium,Medium
+113,2022-12-12,Aalopuri,Fastfood,$20,8,$160,Cash,Mr.,Afternoon,Monday,December,Medium,Medium
+114,2022-08-14,Aalopuri,Fastfood,$20,10,$200,Online,Mr.,Afternoon,Sunday,August,Medium,Medium
+115,2023-12-01,Aalopuri,Fastfood,$20,13,$260,NULL,Mr.,Evening,Friday,December,Large,High
+116,2022-08-26,Sugarcane Juice,Beverages,$25,13,$325,Cash,Mr.,Evening,Friday,August,Large,High
+117,2023-09-03,Frankie,Fastfood,$50,7,$350,Online,Mrs.,Evening,Sunday,September,Medium,Medium
+118,2022-06-07,Sandwich,Fastfood,$60,1,$60,Online,Mr.,Midnight,Tuesday,June,Small,Low
+119,2022-12-05,Panipuri,Fastfood,$20,10,$200,Cash,Mr.,Evening,Monday,December,Medium,Medium
+120,2022-10-07,Frankie,Fastfood,$50,2,$100,Cash,Mrs.,Evening,Friday,October,Small,Low
+121,2022-08-26,Cold Coffee,Beverages,$40,8,$320,Cash,Mr.,Afternoon,Friday,August,Medium,Medium
+122,2022-04-24,Panipuri,Fastfood,$20,3,$60,NULL,Mrs.,Night,Sunday,April,Small,Low
+123,2022-09-06,Cold Coffee,Beverages,$40,6,$240,Online,Mr.,Evening,Tuesday,September,Medium,Medium
+124,2022-10-14,Sugarcane Juice,Beverages,$25,13,$325,NULL,Mrs.,Evening,Friday,October,Large,High
+125,2022-10-04,Vadapav,Fastfood,$20,7,$140,Cash,Mrs.,Midnight,Tuesday,October,Medium,Medium
+126,2022-08-04,Panipuri,Fastfood,$20,11,$220,Online,Mrs.,Night,Thursday,August,Large,High
+127,2022-03-12,Aalopuri,Fastfood,$20,1,$20,NULL,Mrs.,Morning,Saturday,March,Small,Low
+128,2022-07-08,Vadapav,Fastfood,$20,11,$220,Online,Mr.,Midnight,Friday,July,Large,High
+129,2022-10-19,Panipuri,Fastfood,$20,13,$260,Cash,Mrs.,Morning,Wednesday,October,Large,High
+130,2022-12-28,Sugarcane Juice,Beverages,$25,7,$175,Cash,Mr.,Night,Wednesday,December,Medium,Medium
+131,2023-01-19,Sandwich,Fastfood,$60,8,$480,Cash,Mr.,Night,Thursday,January,Medium,Medium
+132,2022-05-12,Vadapav,Fastfood,$20,4,$80,Online,Mrs.,Night,Thursday,May,Small,Low
+133,2022-12-20,Aalopuri,Fastfood,$20,5,$100,Online,Mr.,Midnight,Tuesday,December,Small,Low
+134,2022-07-17,Aalopuri,Fastfood,$20,12,$240,Online,Mrs.,Night,Sunday,July,Large,High
+135,2023-01-14,Aalopuri,Fastfood,$20,8,$160,Online,Mr.,Midnight,Saturday,January,Medium,Medium
+136,2022-08-24,Aalopuri,Fastfood,$20,15,$300,Online,Mr.,Morning,Wednesday,August,Large,High
+137,2023-03-19,Sugarcane Juice,Beverages,$25,6,$150,NULL,Mr.,Afternoon,Sunday,March,Medium,Medium
+138,2022-01-09,Sandwich,Fastfood,$60,15,$900,Online,Mr.,Night,Sunday,January,Large,High
+139,2023-02-26,Frankie,Fastfood,$50,11,$550,Online,Mrs.,Night,Sunday,February,Large,High
+140,2022-12-06,Frankie,Fastfood,$50,13,$650,Cash,Mr.,Night,Tuesday,December,Large,High
+141,2022-06-15,Aalopuri,Fastfood,$20,4,$80,NULL,Mr.,Evening,Wednesday,June,Small,Low
+142,2022-12-30,Sugarcane Juice,Beverages,$25,12,$300,Cash,Mrs.,Morning,Friday,December,Large,High
+143,2022-09-18,Frankie,Fastfood,$50,8,$400,NULL,Mrs.,Afternoon,Sunday,September,Medium,Medium
+144,2022-11-17,Panipuri,Fastfood,$20,10,$200,Cash,Mrs.,Evening,Thursday,November,Medium,Medium
+145,2022-09-10,Sandwich,Fastfood,$60,14,$840,Online,Mr.,Morning,Saturday,September,Large,High
+146,2022-10-28,Frankie,Fastfood,$50,4,$200,NULL,Mrs.,Afternoon,Friday,October,Small,Low
+147,2022-05-17,Panipuri,Fastfood,$20,7,$140,Online,Mr.,Evening,Tuesday,May,Medium,Medium
+148,2023-03-19,Sandwich,Fastfood,$60,13,$780,Online,Mr.,Evening,Sunday,March,Large,High
+149,2022-09-08,Sandwich,Fastfood,$60,7,$420,Online,Mr.,Morning,Thursday,September,Medium,Medium
+150,2023-01-30,Cold Coffee,Beverages,$40,14,$560,Cash,Mr.,Afternoon,Monday,January,Large,High
+151,2022-10-07,Frankie,Fastfood,$50,13,$650,Online,Mrs.,Morning,Friday,October,Large,High
+152,2022-10-24,Cold Coffee,Beverages,$40,9,$360,Online,Mr.,Afternoon,Monday,October,Medium,Medium
+153,2022-07-21,Panipuri,Fastfood,$20,1,$20,Cash,Mrs.,Evening,Thursday,July,Small,Low
+154,2022-12-13,Vadapav,Fastfood,$20,3,$60,Cash,Mr.,Night,Tuesday,December,Small,Low
+155,2023-07-02,Sugarcane Juice,Beverages,$25,10,$250,Cash,Mrs.,Evening,Sunday,July,Medium,Medium
+156,2023-03-25,Panipuri,Fastfood,$20,14,$280,Cash,Mr.,Midnight,Saturday,March,Large,High
+157,2023-02-24,Frankie,Fastfood,$50,7,$350,Online,Mrs.,Midnight,Friday,February,Medium,Medium
+158,2022-05-16,Aalopuri,Fastfood,$20,2,$40,NULL,Mr.,Midnight,Monday,May,Small,Low
+159,2022-03-10,Sugarcane Juice,Beverages,$25,1,$25,Online,Mrs.,Afternoon,Thursday,March,Small,Low
+160,2022-07-23,Vadapav,Fastfood,$20,10,$200,Online,Mr.,Night,Saturday,July,Medium,Medium
+161,2023-01-19,Sugarcane Juice,Beverages,$25,12,$300,Cash,Mr.,Evening,Thursday,January,Large,High
+162,2022-07-05,Aalopuri,Fastfood,$20,11,$220,Cash,Mr.,Midnight,Tuesday,July,Large,High
+163,2023-06-01,Frankie,Fastfood,$50,6,$300,Online,Mrs.,Midnight,Thursday,June,Medium,Medium
+164,2022-10-08,Sugarcane Juice,Beverages,$25,7,$175,Online,Mr.,Afternoon,Saturday,October,Medium,Medium
+165,2023-05-01,Sandwich,Fastfood,$60,11,$660,Cash,Mr.,Midnight,Monday,May,Large,High
+166,2022-01-06,Panipuri,Fastfood,$20,6,$120,Cash,Mrs.,Evening,Thursday,January,Medium,Medium
+167,2023-02-23,Cold Coffee,Beverages,$40,6,$240,Cash,Mrs.,Morning,Thursday,February,Medium,Medium
+168,2022-04-19,Sandwich,Fastfood,$60,4,$240,Cash,Mrs.,Midnight,Tuesday,April,Small,Low
+169,2022-06-20,Vadapav,Fastfood,$20,6,$120,Cash,Mr.,Morning,Monday,June,Medium,Medium
+170,2023-02-13,Aalopuri,Fastfood,$20,6,$120,NULL,Mrs.,Afternoon,Monday,February,Medium,Medium
+171,2023-02-03,Vadapav,Fastfood,$20,11,$220,Cash,Mrs.,Midnight,Friday,February,Large,High
+172,2022-08-27,Sugarcane Juice,Beverages,$25,6,$150,Online,Mrs.,Night,Saturday,August,Medium,Medium
+173,2023-01-20,Cold Coffee,Beverages,$40,2,$80,Online,Mr.,Night,Friday,January,Small,Low
+174,2022-03-09,Aalopuri,Fastfood,$20,2,$40,Online,Mr.,Evening,Wednesday,March,Small,Low
+175,2022-10-17,Frankie,Fastfood,$50,12,$600,Cash,Mrs.,Afternoon,Monday,October,Large,High
+176,2022-04-08,Panipuri,Fastfood,$20,1,$20,Cash,Mrs.,Midnight,Friday,April,Small,Low
+177,2022-07-21,Panipuri,Fastfood,$20,11,$220,Online,Mrs.,Morning,Thursday,July,Large,High
+178,2022-09-12,Aalopuri,Fastfood,$20,2,$40,Cash,Mrs.,Morning,Monday,September,Small,Low
+179,2023-03-03,Sugarcane Juice,Beverages,$25,5,$125,NULL,Mrs.,Midnight,Friday,March,Small,Low
+180,2022-01-12,Vadapav,Fastfood,$20,6,$120,Online,Mrs.,Afternoon,Wednesday,January,Medium,Medium
+181,2022-09-06,Cold Coffee,Beverages,$40,7,$280,Cash,Mrs.,Night,Tuesday,September,Medium,Medium
+182,2022-02-07,Cold Coffee,Beverages,$40,1,$40,Cash,Mr.,Midnight,Monday,February,Small,Low
+183,2022-10-07,Sugarcane Juice,Beverages,$25,5,$125,Cash,Mrs.,Midnight,Friday,October,Small,Low
+184,2023-03-01,Cold Coffee,Beverages,$40,8,$320,Cash,Mr.,Night,Wednesday,March,Medium,Medium
+185,2023-01-13,Sugarcane Juice,Beverages,$25,15,$375,NULL,Mr.,Night,Friday,January,Large,High
+186,2023-03-15,Frankie,Fastfood,$50,2,$100,Online,Mr.,Afternoon,Wednesday,March,Small,Low
+187,2022-11-10,Aalopuri,Fastfood,$20,15,$300,Cash,Mrs.,Morning,Thursday,November,Large,High
+188,2022-12-28,Panipuri,Fastfood,$20,14,$280,Cash,Mrs.,Night,Wednesday,December,Large,High
+189,2023-08-02,Vadapav,Fastfood,$20,12,$240,Online,Mr.,Afternoon,Wednesday,August,Large,High
+190,2022-04-26,Cold Coffee,Beverages,$40,1,$40,Online,Mr.,Evening,Tuesday,April,Small,Low
+191,2022-05-20,Sugarcane Juice,Beverages,$25,14,$350,Cash,Mrs.,Morning,Friday,May,Large,High
+192,2022-10-26,Vadapav,Fastfood,$20,2,$40,Online,Mr.,Night,Wednesday,October,Small,Low
+193,2023-05-02,Cold Coffee,Beverages,$40,15,$600,Online,Mrs.,Midnight,Tuesday,May,Large,High
+194,2022-12-15,Vadapav,Fastfood,$20,4,$80,Cash,Mrs.,Morning,Thursday,December,Small,Low
+195,2022-04-23,Sandwich,Fastfood,$60,4,$240,Cash,Mrs.,Night,Saturday,April,Small,Low
+196,2022-06-25,Sandwich,Fastfood,$60,3,$180,Cash,Mr.,Evening,Saturday,June,Small,Low
+197,2022-08-11,Panipuri,Fastfood,$20,10,$200,Cash,Mrs.,Midnight,Thursday,August,Medium,Medium
+198,2023-05-01,Frankie,Fastfood,$50,15,$750,Cash,Mr.,Morning,Monday,May,Large,High
+199,2023-01-02,Frankie,Fastfood,$50,6,$300,Online,Mrs.,Morning,Monday,January,Medium,Medium
+200,2022-12-25,Cold Coffee,Beverages,$40,10,$400,Cash,Mrs.,Morning,Sunday,December,Medium,Medium
+201,2022-06-30,Panipuri,Fastfood,$20,8,$160,Cash,Mr.,Morning,Thursday,June,Medium,Medium
+202,2022-09-21,Aalopuri,Fastfood,$20,9,$180,Cash,Mr.,Afternoon,Wednesday,September,Medium,Medium
+203,2022-11-04,Vadapav,Fastfood,$20,6,$120,Online,Mrs.,Midnight,Friday,November,Medium,Medium
+204,2022-10-24,Cold Coffee,Beverages,$40,7,$280,Cash,Mrs.,Evening,Monday,October,Medium,Medium
+205,2022-10-17,Vadapav,Fastfood,$20,4,$80,NULL,Mr.,Afternoon,Monday,October,Small,Low
+206,2022-07-27,Aalopuri,Fastfood,$20,4,$80,Cash,Mr.,Night,Wednesday,July,Small,Low
+207,2023-02-20,Cold Coffee,Beverages,$40,8,$320,Online,Mrs.,Evening,Monday,February,Medium,Medium
+208,2022-08-26,Cold Coffee,Beverages,$40,13,$520,Cash,Mrs.,Midnight,Friday,August,Large,High
+209,2022-04-12,Aalopuri,Fastfood,$20,2,$40,Cash,Mr.,Night,Tuesday,April,Small,Low
+210,2023-02-01,Sugarcane Juice,Beverages,$25,15,$375,NULL,Mr.,Night,Wednesday,February,Large,High
+211,2022-04-18,Aalopuri,Fastfood,$20,12,$240,Cash,Mr.,Morning,Monday,April,Large,High
+212,2022-05-05,Cold Coffee,Beverages,$40,12,$480,Online,Mrs.,Morning,Thursday,May,Large,High
+213,2022-09-29,Vadapav,Fastfood,$20,3,$60,NULL,Mrs.,Midnight,Thursday,September,Small,Low
+214,2022-03-12,Sugarcane Juice,Beverages,$25,14,$350,Online,Mr.,Evening,Saturday,March,Large,High
+215,2022-10-12,Sugarcane Juice,Beverages,$25,7,$175,NULL,Mrs.,Morning,Wednesday,October,Medium,Medium
+216,2023-07-03,Panipuri,Fastfood,$20,9,$180,Cash,Mrs.,Afternoon,Monday,July,Medium,Medium
+217,2023-03-23,Cold Coffee,Beverages,$40,10,$400,Cash,Mr.,Morning,Thursday,March,Medium,Medium
+218,2022-12-23,Cold Coffee,Beverages,$40,13,$520,Online,Mrs.,Midnight,Friday,December,Large,High
+219,2022-01-10,Aalopuri,Fastfood,$20,9,$180,Cash,Mrs.,Evening,Monday,January,Medium,Medium
+220,2022-05-13,Sugarcane Juice,Beverages,$25,1,$25,Cash,Mr.,Afternoon,Friday,May,Small,Low
+221,2023-03-26,Sandwich,Fastfood,$60,1,$60,Online,Mr.,Evening,Sunday,March,Small,Low
+222,2022-11-09,Sandwich,Fastfood,$60,6,$360,Cash,Mrs.,Morning,Wednesday,November,Medium,Medium
+223,2022-09-21,Panipuri,Fastfood,$20,13,$260,Online,Mr.,Night,Wednesday,September,Large,High
+224,2023-03-23,Sugarcane Juice,Beverages,$25,14,$350,Cash,Mr.,Afternoon,Thursday,March,Large,High
+225,2023-03-16,Frankie,Fastfood,$50,11,$550,Cash,Mrs.,Evening,Thursday,March,Large,High
+226,2022-12-12,Aalopuri,Fastfood,$20,13,$260,Online,Mrs.,Afternoon,Monday,December,Large,High
+227,2022-11-17,Cold Coffee,Beverages,$40,5,$200,Cash,Mrs.,Afternoon,Thursday,November,Small,Low
+228,2022-05-11,Panipuri,Fastfood,$20,8,$160,Online,Mr.,Night,Wednesday,May,Medium,Medium
+229,2022-12-15,Panipuri,Fastfood,$20,7,$140,NULL,Mr.,Evening,Thursday,December,Medium,Medium
+230,2022-04-16,Frankie,Fastfood,$50,6,$300,Online,Mr.,Afternoon,Saturday,April,Medium,Medium
+231,2022-04-16,Sugarcane Juice,Beverages,$25,3,$75,NULL,Mr.,Night,Saturday,April,Small,Low
+232,2022-04-23,Vadapav,Fastfood,$20,13,$260,Cash,Mrs.,Night,Saturday,April,Large,High
+233,2022-07-31,Panipuri,Fastfood,$20,5,$100,Cash,Mr.,Morning,Sunday,July,Small,Low
+234,2022-07-27,Panipuri,Fastfood,$20,10,$200,Cash,Mr.,Midnight,Wednesday,July,Medium,Medium
+235,2022-11-29,Sandwich,Fastfood,$60,10,$600,Cash,Mrs.,Afternoon,Tuesday,November,Medium,Medium
+236,2022-06-26,Vadapav,Fastfood,$20,12,$240,NULL,Mrs.,Evening,Sunday,June,Large,High
+237,2022-08-11,Panipuri,Fastfood,$20,13,$260,Cash,Mrs.,Midnight,Thursday,August,Large,High
+238,2022-04-26,Vadapav,Fastfood,$20,13,$260,Cash,Mr.,Morning,Tuesday,April,Large,High
+239,2022-04-12,Frankie,Fastfood,$50,4,$200,Online,Mr.,Evening,Tuesday,April,Small,Low
+240,2022-11-12,Sandwich,Fastfood,$60,10,$600,Cash,Mrs.,Morning,Saturday,November,Medium,Medium
+241,2022-06-06,Sugarcane Juice,Beverages,$25,2,$50,Cash,Mr.,Afternoon,Monday,June,Small,Low
+242,2022-12-23,Cold Coffee,Beverages,$40,4,$160,Online,Mrs.,Midnight,Friday,December,Small,Low
+243,2022-12-11,Panipuri,Fastfood,$20,5,$100,Cash,Mrs.,Midnight,Sunday,December,Small,Low
+244,2022-11-22,Sandwich,Fastfood,$60,10,$600,Online,Mrs.,Midnight,Tuesday,November,Medium,Medium
+245,2022-03-10,Vadapav,Fastfood,$20,2,$40,Cash,Mrs.,Morning,Thursday,March,Small,Low
+246,2022-11-16,Vadapav,Fastfood,$20,10,$200,Cash,Mr.,Afternoon,Wednesday,November,Medium,Medium
+247,2022-03-10,Sugarcane Juice,Beverages,$25,6,$150,NULL,Mr.,Midnight,Thursday,March,Medium,Medium
+248,2022-04-17,Frankie,Fastfood,$50,5,$250,Online,Mrs.,Midnight,Sunday,April,Small,Low
+249,2022-10-26,Sugarcane Juice,Beverages,$25,3,$75,Online,Mrs.,Afternoon,Wednesday,October,Small,Low
+250,2022-11-15,Sugarcane Juice,Beverages,$25,6,$150,Online,Mrs.,Midnight,Tuesday,November,Medium,Medium
+251,2022-12-21,Cold Coffee,Beverages,$40,13,$520,NULL,Mrs.,Afternoon,Wednesday,December,Large,High
+252,2023-03-26,Vadapav,Fastfood,$20,8,$160,Online,Mr.,Midnight,Sunday,March,Medium,Medium
+253,2022-06-18,Sugarcane Juice,Beverages,$25,13,$325,Online,Mr.,Afternoon,Saturday,June,Large,High
+254,2022-09-10,Cold Coffee,Beverages,$40,12,$480,NULL,Mrs.,Afternoon,Saturday,September,Large,High
+255,2022-04-30,Vadapav,Fastfood,$20,7,$140,NULL,Mrs.,Afternoon,Saturday,April,Medium,Medium
+256,2023-03-16,Aalopuri,Fastfood,$20,3,$60,Online,Mrs.,Midnight,Thursday,March,Small,Low
+257,2023-03-01,Sandwich,Fastfood,$60,10,$600,Cash,Mrs.,Midnight,Wednesday,March,Medium,Medium
+258,2022-06-09,Vadapav,Fastfood,$20,14,$280,Cash,Mr.,Midnight,Thursday,June,Large,High
+259,2022-11-18,Sandwich,Fastfood,$60,4,$240,Online,Mr.,Morning,Friday,November,Small,Low
+260,2022-10-09,Sugarcane Juice,Beverages,$25,2,$50,Online,Mrs.,Night,Sunday,October,Small,Low
+261,2023-11-01,Frankie,Fastfood,$50,9,$450,Cash,Mrs.,Midnight,Wednesday,November,Medium,Medium
+262,2023-05-03,Vadapav,Fastfood,$20,5,$100,NULL,Mrs.,Evening,Wednesday,May,Small,Low
+263,2022-06-19,Panipuri,Fastfood,$20,2,$40,Cash,Mr.,Evening,Sunday,June,Small,Low
+264,2022-07-18,Sugarcane Juice,Beverages,$25,12,$300,Online,Mr.,Morning,Monday,July,Large,High
+265,2022-08-15,Vadapav,Fastfood,$20,6,$120,Cash,Mr.,Midnight,Monday,August,Medium,Medium
+266,2022-02-10,Frankie,Fastfood,$50,10,$500,Online,Mrs.,Night,Thursday,February,Medium,Medium
+267,2023-05-03,Vadapav,Fastfood,$20,1,$20,Cash,Mr.,Morning,Wednesday,May,Small,Low
+268,2023-05-02,Cold Coffee,Beverages,$40,12,$480,Cash,Mrs.,Midnight,Tuesday,May,Large,High
+269,2022-12-22,Panipuri,Fastfood,$20,2,$40,NULL,Mrs.,Midnight,Thursday,December,Small,Low
+270,2022-07-09,Sandwich,Fastfood,$60,13,$780,Cash,Mr.,Evening,Saturday,July,Large,High
+271,2022-03-05,Vadapav,Fastfood,$20,13,$260,Cash,Mr.,Evening,Saturday,March,Large,High
+272,2022-07-29,Frankie,Fastfood,$50,5,$250,Online,Mrs.,Night,Friday,July,Small,Low
+273,2022-08-15,Panipuri,Fastfood,$20,15,$300,Cash,Mr.,Midnight,Monday,August,Large,High
+274,2023-04-01,Sugarcane Juice,Beverages,$25,10,$250,Online,Mr.,Night,Saturday,April,Medium,Medium
+275,2023-04-02,Vadapav,Fastfood,$20,15,$300,Online,Mr.,Night,Sunday,April,Large,High
+276,2022-09-30,Sugarcane Juice,Beverages,$25,6,$150,Cash,Mr.,Midnight,Friday,September,Medium,Medium
+277,2022-08-12,Cold Coffee,Beverages,$40,13,$520,Cash,Mrs.,Midnight,Friday,August,Large,High
+278,2022-06-19,Frankie,Fastfood,$50,6,$300,Online,Mrs.,Night,Sunday,June,Medium,Medium
+279,2022-09-14,Vadapav,Fastfood,$20,15,$300,Cash,Mrs.,Afternoon,Wednesday,September,Large,High
+280,2022-09-10,Panipuri,Fastfood,$20,14,$280,Online,Mrs.,Evening,Saturday,September,Large,High
+281,2022-09-08,Sandwich,Fastfood,$60,3,$180,Cash,Mrs.,Afternoon,Thursday,September,Small,Low
+282,2022-05-16,Vadapav,Fastfood,$20,13,$260,NULL,Mrs.,Morning,Monday,May,Large,High
+283,2022-02-07,Panipuri,Fastfood,$20,2,$40,Cash,Mrs.,Midnight,Monday,February,Small,Low
+284,2023-01-29,Frankie,Fastfood,$50,7,$350,NULL,Mr.,Afternoon,Sunday,January,Medium,Medium
+285,2022-06-28,Aalopuri,Fastfood,$20,3,$60,NULL,Mr.,Night,Tuesday,June,Small,Low
+286,2022-12-14,Vadapav,Fastfood,$20,6,$120,NULL,Mr.,Night,Wednesday,December,Medium,Medium
+287,2022-06-08,Aalopuri,Fastfood,$20,3,$60,Cash,Mr.,Morning,Wednesday,June,Small,Low
+288,2022-08-22,Sandwich,Fastfood,$60,7,$420,Cash,Mr.,Night,Monday,August,Medium,Medium
+289,2022-11-28,Aalopuri,Fastfood,$20,7,$140,Online,Mrs.,Midnight,Monday,November,Medium,Medium
+290,2022-03-05,Panipuri,Fastfood,$20,7,$140,Cash,Mrs.,Morning,Saturday,March,Medium,Medium
+291,2023-01-27,Frankie,Fastfood,$50,8,$400,Online,Mrs.,Night,Friday,January,Medium,Medium
+292,2023-01-16,Frankie,Fastfood,$50,2,$100,Cash,Mrs.,Midnight,Monday,January,Small,Low
+293,2022-04-21,Panipuri,Fastfood,$20,8,$160,Online,Mrs.,Morning,Thursday,April,Medium,Medium
+294,2022-09-23,Aalopuri,Fastfood,$20,1,$20,Cash,Mrs.,Evening,Friday,September,Small,Low
+295,2022-07-21,Sandwich,Fastfood,$60,7,$420,Cash,Mr.,Midnight,Thursday,July,Medium,Medium
+296,2023-06-02,Panipuri,Fastfood,$20,7,$140,Cash,Mrs.,Afternoon,Friday,June,Medium,Medium
+297,2022-04-30,Sandwich,Fastfood,$60,10,$600,Online,Mr.,Evening,Saturday,April,Medium,Medium
+298,2022-07-19,Sugarcane Juice,Beverages,$25,9,$225,Cash,Mrs.,Afternoon,Tuesday,July,Medium,Medium
+299,2022-07-22,Aalopuri,Fastfood,$20,1,$20,Online,Mrs.,Evening,Friday,July,Small,Low
+300,2022-06-27,Aalopuri,Fastfood,$20,8,$160,Cash,Mr.,Afternoon,Monday,June,Medium,Medium
+301,2023-01-28,Panipuri,Fastfood,$20,7,$140,Cash,Mr.,Night,Saturday,January,Medium,Medium
+302,2023-03-21,Aalopuri,Fastfood,$20,14,$280,Cash,Mr.,Night,Tuesday,March,Large,High
+303,2022-02-07,Sugarcane Juice,Beverages,$25,1,$25,Cash,Mrs.,Midnight,Monday,February,Small,Low
+304,2022-05-28,Vadapav,Fastfood,$20,15,$300,Online,Mr.,Morning,Saturday,May,Large,High
+305,2023-05-03,Panipuri,Fastfood,$20,4,$80,NULL,Mrs.,Morning,Wednesday,May,Small,Low
+306,2023-03-03,Cold Coffee,Beverages,$40,8,$320,Online,Mrs.,Morning,Friday,March,Medium,Medium
+307,2023-02-13,Vadapav,Fastfood,$20,8,$160,Cash,Mr.,Evening,Monday,February,Medium,Medium
+308,2022-12-17,Sandwich,Fastfood,$60,13,$780,Online,Mr.,Evening,Saturday,December,Large,High
+309,2022-10-14,Sandwich,Fastfood,$60,8,$480,Online,Mr.,Evening,Friday,October,Medium,Medium
+310,2022-04-25,Vadapav,Fastfood,$20,4,$80,Cash,Mr.,Afternoon,Monday,April,Small,Low
+311,2022-07-31,Frankie,Fastfood,$50,7,$350,NULL,Mrs.,Morning,Sunday,July,Medium,Medium
+312,2022-12-28,Cold Coffee,Beverages,$40,1,$40,Cash,Mrs.,Night,Wednesday,December,Small,Low
+313,2022-04-19,Cold Coffee,Beverages,$40,1,$40,Cash,Mr.,Midnight,Tuesday,April,Small,Low
+314,2023-02-27,Frankie,Fastfood,$50,8,$400,Online,Mrs.,Morning,Monday,February,Medium,Medium
+315,2023-02-20,Cold Coffee,Beverages,$40,13,$520,Online,Mrs.,Afternoon,Monday,February,Large,High
+316,2022-02-11,Frankie,Fastfood,$50,4,$200,Online,Mr.,Morning,Friday,February,Small,Low
+317,2023-10-03,Aalopuri,Fastfood,$20,12,$240,Online,Mrs.,Afternoon,Tuesday,October,Large,High
+318,2022-12-21,Aalopuri,Fastfood,$20,10,$200,Online,Mrs.,Midnight,Wednesday,December,Medium,Medium
+319,2022-06-30,Frankie,Fastfood,$50,15,$750,Cash,Mr.,Afternoon,Thursday,June,Large,High
+320,2023-03-18,Sugarcane Juice,Beverages,$25,7,$175,Cash,Mrs.,Afternoon,Saturday,March,Medium,Medium
+321,2023-08-02,Frankie,Fastfood,$50,12,$600,Cash,Mrs.,Evening,Wednesday,August,Large,High
+322,2022-05-05,Cold Coffee,Beverages,$40,11,$440,Cash,Mr.,Morning,Thursday,May,Large,High
+323,2022-12-29,Aalopuri,Fastfood,$20,4,$80,Cash,Mr.,Morning,Thursday,December,Small,Low
+324,2022-07-18,Sugarcane Juice,Beverages,$25,15,$375,Online,Mrs.,Night,Monday,July,Large,High
+325,2023-02-03,Aalopuri,Fastfood,$20,12,$240,NULL,Mrs.,Afternoon,Friday,February,Large,High
+326,2022-03-05,Sandwich,Fastfood,$60,8,$480,Cash,Mr.,Evening,Saturday,March,Medium,Medium
+327,2022-11-29,Frankie,Fastfood,$50,15,$750,Cash,Mrs.,Midnight,Tuesday,November,Large,High
+328,2022-06-16,Vadapav,Fastfood,$20,3,$60,Online,Mr.,Evening,Thursday,June,Small,Low
+329,2023-10-01,Panipuri,Fastfood,$20,7,$140,Online,Mrs.,Afternoon,Sunday,October,Medium,Medium
+330,2022-09-22,Panipuri,Fastfood,$20,8,$160,NULL,Mr.,Morning,Thursday,September,Medium,Medium
+331,2022-08-21,Panipuri,Fastfood,$20,4,$80,Online,Mrs.,Evening,Sunday,August,Small,Low
+332,2023-02-17,Aalopuri,Fastfood,$20,2,$40,NULL,Mrs.,Afternoon,Friday,February,Small,Low
+333,2022-10-30,Sugarcane Juice,Beverages,$25,11,$275,Cash,Mrs.,Afternoon,Sunday,October,Large,High
+334,2022-04-04,Cold Coffee,Beverages,$40,4,$160,Cash,Mrs.,Evening,Monday,April,Small,Low
+335,2022-10-24,Cold Coffee,Beverages,$40,11,$440,Cash,Mr.,Night,Monday,October,Large,High
+336,2022-03-09,Sugarcane Juice,Beverages,$25,13,$325,NULL,Mrs.,Midnight,Wednesday,March,Large,High
+337,2022-10-15,Aalopuri,Fastfood,$20,14,$280,Online,Mrs.,Midnight,Saturday,October,Large,High
+338,2022-06-05,Sugarcane Juice,Beverages,$25,12,$300,Cash,Mr.,Morning,Sunday,June,Large,High
+339,2023-02-16,Sugarcane Juice,Beverages,$25,1,$25,NULL,Mrs.,Midnight,Thursday,February,Small,Low
+340,2022-02-06,Cold Coffee,Beverages,$40,4,$160,Cash,Mrs.,Evening,Sunday,February,Small,Low
+341,2023-03-19,Frankie,Fastfood,$50,9,$450,Cash,Mrs.,Evening,Sunday,March,Medium,Medium
+342,2023-11-03,Vadapav,Fastfood,$20,7,$140,Online,Mr.,Afternoon,Friday,November,Medium,Medium
+343,2023-01-18,Sugarcane Juice,Beverages,$25,5,$125,Cash,Mr.,Afternoon,Wednesday,January,Small,Low
+344,2022-05-13,Cold Coffee,Beverages,$40,14,$560,Cash,Mr.,Night,Friday,May,Large,High
+345,2022-09-05,Panipuri,Fastfood,$20,14,$280,Online,Mrs.,Night,Monday,September,Large,High
+346,2023-01-31,Cold Coffee,Beverages,$40,12,$480,Cash,Mr.,Morning,Tuesday,January,Large,High
+347,2022-06-24,Frankie,Fastfood,$50,7,$350,Cash,Mrs.,Afternoon,Friday,June,Medium,Medium
+348,2022-09-19,Vadapav,Fastfood,$20,1,$20,Online,Mrs.,Midnight,Monday,September,Small,Low
+349,2022-08-17,Panipuri,Fastfood,$20,5,$100,Cash,Mrs.,Evening,Wednesday,August,Small,Low
+350,2022-09-21,Cold Coffee,Beverages,$40,8,$320,Online,Mrs.,Morning,Wednesday,September,Medium,Medium
+351,2022-08-07,Frankie,Fastfood,$50,5,$250,Online,Mrs.,Night,Sunday,August,Small,Low
+352,2022-05-25,Frankie,Fastfood,$50,11,$550,Cash,Mrs.,Night,Wednesday,May,Large,High
+353,2022-05-18,Vadapav,Fastfood,$20,4,$80,Online,Mrs.,Midnight,Wednesday,May,Small,Low
+354,2023-01-16,Panipuri,Fastfood,$20,14,$280,Online,Mr.,Midnight,Monday,January,Large,High
+355,2023-03-15,Cold Coffee,Beverages,$40,4,$160,Online,Mr.,Midnight,Wednesday,March,Small,Low
+356,2022-05-26,Sugarcane Juice,Beverages,$25,14,$350,Cash,Mrs.,Night,Thursday,May,Large,High
+357,2022-09-21,Sandwich,Fastfood,$60,9,$540,Online,Mrs.,Afternoon,Wednesday,September,Medium,Medium
+358,2022-10-27,Aalopuri,Fastfood,$20,6,$120,Cash,Mr.,Night,Thursday,October,Medium,Medium
+359,2022-08-27,Aalopuri,Fastfood,$20,13,$260,Online,Mrs.,Night,Saturday,August,Large,High
+360,2022-06-10,Cold Coffee,Beverages,$40,2,$80,Online,Mrs.,Midnight,Friday,June,Small,Low
+361,2022-06-30,Sandwich,Fastfood,$60,15,$900,NULL,Mrs.,Night,Thursday,June,Large,High
+362,2022-12-30,Sugarcane Juice,Beverages,$25,2,$50,Cash,Mr.,Morning,Friday,December,Small,Low
+363,2022-09-05,Frankie,Fastfood,$50,9,$450,Online,Mr.,Afternoon,Monday,September,Medium,Medium
+364,2022-11-10,Cold Coffee,Beverages,$40,2,$80,Online,Mr.,Night,Thursday,November,Small,Low
+365,2022-08-07,Panipuri,Fastfood,$20,10,$200,Online,Mr.,Night,Sunday,August,Medium,Medium
+366,2022-11-30,Sugarcane Juice,Beverages,$25,10,$250,Online,Mrs.,Afternoon,Wednesday,November,Medium,Medium
+367,2022-10-08,Panipuri,Fastfood,$20,6,$120,NULL,Mr.,Afternoon,Saturday,October,Medium,Medium
+368,2022-08-31,Cold Coffee,Beverages,$40,2,$80,Cash,Mr.,Night,Wednesday,August,Small,Low
+369,2022-03-07,Sandwich,Fastfood,$60,2,$120,Online,Mrs.,Evening,Monday,March,Small,Low
+370,2022-05-28,Panipuri,Fastfood,$20,5,$100,NULL,Mrs.,Midnight,Saturday,May,Small,Low
+371,2022-10-18,Vadapav,Fastfood,$20,5,$100,Online,Mrs.,Night,Tuesday,October,Small,Low
+372,2022-11-19,Frankie,Fastfood,$50,12,$600,NULL,Mr.,Morning,Saturday,November,Large,High
+373,2022-08-05,Sugarcane Juice,Beverages,$25,12,$300,Cash,Mrs.,Midnight,Friday,August,Large,High
+374,2022-07-24,Frankie,Fastfood,$50,10,$500,Online,Mr.,Midnight,Sunday,July,Medium,Medium
+375,2022-11-17,Panipuri,Fastfood,$20,13,$260,Cash,Mr.,Evening,Thursday,November,Large,High
+376,2022-04-12,Frankie,Fastfood,$50,15,$750,Cash,Mr.,Midnight,Tuesday,April,Large,High
+377,2022-05-20,Sugarcane Juice,Beverages,$25,3,$75,Online,Mrs.,Evening,Friday,May,Small,Low
+378,2022-04-24,Vadapav,Fastfood,$20,2,$40,Cash,Mrs.,Midnight,Sunday,April,Small,Low
+379,2023-02-15,Cold Coffee,Beverages,$40,14,$560,NULL,Mr.,Afternoon,Wednesday,February,Large,High
+380,2022-10-20,Sandwich,Fastfood,$60,5,$300,Online,Mrs.,Afternoon,Thursday,October,Small,Low
+381,2023-02-26,Vadapav,Fastfood,$20,1,$20,Online,Mr.,Morning,Sunday,February,Small,Low
+382,2022-08-16,Cold Coffee,Beverages,$40,9,$360,Cash,Mrs.,Night,Tuesday,August,Medium,Medium
+383,2022-06-05,Aalopuri,Fastfood,$20,7,$140,Online,Mrs.,Morning,Sunday,June,Medium,Medium
+384,2022-10-22,Sugarcane Juice,Beverages,$25,1,$25,Online,Mr.,Afternoon,Saturday,October,Small,Low
+385,2022-04-25,Vadapav,Fastfood,$20,5,$100,Cash,Mr.,Morning,Monday,April,Small,Low
+386,2022-11-23,Frankie,Fastfood,$50,5,$250,Online,Mr.,Midnight,Wednesday,November,Small,Low
+387,2023-03-17,Sugarcane Juice,Beverages,$25,14,$350,Cash,Mrs.,Midnight,Friday,March,Large,High
+388,2022-09-10,Sandwich,Fastfood,$60,14,$840,Cash,Mr.,Evening,Saturday,September,Large,High
+389,2022-12-22,Sandwich,Fastfood,$60,12,$720,Cash,Mrs.,Evening,Thursday,December,Large,High
+390,2022-06-18,Sugarcane Juice,Beverages,$25,5,$125,NULL,Mr.,Midnight,Saturday,June,Small,Low
+391,2022-04-21,Aalopuri,Fastfood,$20,1,$20,Online,Mrs.,Night,Thursday,April,Small,Low
+392,2022-09-18,Aalopuri,Fastfood,$20,15,$300,Online,Mr.,Night,Sunday,September,Large,High
+393,2022-02-07,Sugarcane Juice,Beverages,$25,10,$250,Online,Mrs.,Evening,Monday,February,Medium,Medium
+394,2022-03-04,Sandwich,Fastfood,$60,1,$60,Cash,Mrs.,Morning,Friday,March,Small,Low
+395,2023-01-31,Sandwich,Fastfood,$60,3,$180,Cash,Mrs.,Evening,Tuesday,January,Small,Low
+396,2022-10-31,Frankie,Fastfood,$50,15,$750,Online,Mr.,Morning,Monday,October,Large,High
+397,2022-06-07,Aalopuri,Fastfood,$20,2,$40,Online,Mrs.,Afternoon,Tuesday,June,Small,Low
+398,2023-01-13,Panipuri,Fastfood,$20,6,$120,Online,Mr.,Evening,Friday,January,Medium,Medium
+399,2022-06-24,Panipuri,Fastfood,$20,9,$180,Cash,Mrs.,Evening,Friday,June,Medium,Medium
+400,2023-04-03,Cold Coffee,Beverages,$40,15,$600,Cash,Mrs.,Morning,Monday,April,Large,High
+401,2022-11-10,Sugarcane Juice,Beverages,$25,8,$200,Online,Mrs.,Midnight,Thursday,November,Medium,Medium
+402,2023-03-19,Frankie,Fastfood,$50,7,$350,Cash,Mr.,Night,Sunday,March,Medium,Medium
+403,2022-09-25,Cold Coffee,Beverages,$40,3,$120,Online,Mrs.,Midnight,Sunday,September,Small,Low
+404,2022-11-26,Frankie,Fastfood,$50,7,$350,Cash,Mrs.,Midnight,Saturday,November,Medium,Medium
+405,2022-12-13,Sugarcane Juice,Beverages,$25,10,$250,Cash,Mr.,Night,Tuesday,December,Medium,Medium
+406,2022-10-13,Cold Coffee,Beverages,$40,4,$160,Online,Mrs.,Afternoon,Thursday,October,Small,Low
+407,2023-02-01,Sugarcane Juice,Beverages,$25,2,$50,Cash,Mr.,Evening,Wednesday,February,Small,Low
+408,2022-05-10,Vadapav,Fastfood,$20,4,$80,Online,Mr.,Midnight,Tuesday,May,Small,Low
+409,2022-09-15,Aalopuri,Fastfood,$20,9,$180,Cash,Mrs.,Morning,Thursday,September,Medium,Medium
+410,2022-11-23,Aalopuri,Fastfood,$20,15,$300,Online,Mr.,Afternoon,Wednesday,November,Large,High
+411,2022-11-20,Panipuri,Fastfood,$20,12,$240,Cash,Mr.,Afternoon,Sunday,November,Large,High
+412,2023-09-03,Sugarcane Juice,Beverages,$25,14,$350,NULL,Mr.,Afternoon,Sunday,September,Large,High
+413,2022-03-04,Aalopuri,Fastfood,$20,10,$200,Online,Mrs.,Midnight,Friday,March,Medium,Medium
+414,2023-01-21,Cold Coffee,Beverages,$40,13,$520,NULL,Mr.,Night,Saturday,January,Large,High
+415,2022-05-12,Vadapav,Fastfood,$20,8,$160,Online,Mr.,Evening,Thursday,May,Medium,Medium
+416,2022-05-08,Sandwich,Fastfood,$60,9,$540,NULL,Mr.,Morning,Sunday,May,Medium,Medium
+417,2023-01-16,Panipuri,Fastfood,$20,3,$60,Cash,Mr.,Evening,Monday,January,Small,Low
+418,2022-12-11,Cold Coffee,Beverages,$40,7,$280,Online,Mr.,Night,Sunday,December,Medium,Medium
+419,2022-08-10,Sugarcane Juice,Beverages,$25,14,$350,NULL,Mrs.,Midnight,Wednesday,August,Large,High
+420,2023-01-30,Frankie,Fastfood,$50,13,$650,Online,Mrs.,Evening,Monday,January,Large,High
+421,2023-03-24,Cold Coffee,Beverages,$40,2,$80,Online,Mr.,Midnight,Friday,March,Small,Low
+422,2022-02-08,Cold Coffee,Beverages,$40,7,$280,Online,Mr.,Evening,Tuesday,February,Medium,Medium
+423,2022-10-21,Frankie,Fastfood,$50,7,$350,Cash,Mrs.,Night,Friday,October,Medium,Medium
+424,2022-04-21,Sugarcane Juice,Beverages,$25,9,$225,Online,Mrs.,Midnight,Thursday,April,Medium,Medium
+425,2022-08-17,Panipuri,Fastfood,$20,14,$280,Online,Mr.,Afternoon,Wednesday,August,Large,High
+426,2023-01-20,Frankie,Fastfood,$50,14,$700,Cash,Mr.,Midnight,Friday,January,Large,High
+427,2022-05-21,Sandwich,Fastfood,$60,2,$120,Online,Mr.,Afternoon,Saturday,May,Small,Low
+428,2022-12-24,Sugarcane Juice,Beverages,$25,8,$200,Online,Mr.,Afternoon,Saturday,December,Medium,Medium
+429,2022-09-19,Cold Coffee,Beverages,$40,3,$120,Online,Mr.,Night,Monday,September,Small,Low
+430,2022-05-11,Sandwich,Fastfood,$60,4,$240,Online,Mr.,Night,Wednesday,May,Small,Low
+431,2023-03-16,Panipuri,Fastfood,$20,6,$120,Online,Mr.,Evening,Thursday,March,Medium,Medium
+432,2023-03-27,Panipuri,Fastfood,$20,6,$120,Online,Mr.,Afternoon,Monday,March,Medium,Medium
+433,2022-05-27,Panipuri,Fastfood,$20,14,$280,Online,Mrs.,Evening,Friday,May,Large,High
+434,2022-08-21,Aalopuri,Fastfood,$20,12,$240,Cash,Mr.,Morning,Sunday,August,Large,High
+435,2022-08-05,Sandwich,Fastfood,$60,1,$60,Cash,Mrs.,Afternoon,Friday,August,Small,Low
+436,2023-05-01,Frankie,Fastfood,$50,10,$500,Cash,Mr.,Midnight,Monday,May,Medium,Medium
+437,2022-08-31,Cold Coffee,Beverages,$40,1,$40,NULL,Mr.,Morning,Wednesday,August,Small,Low
+438,2022-06-20,Cold Coffee,Beverages,$40,5,$200,Online,Mr.,Morning,Monday,June,Small,Low
+439,2022-09-30,Frankie,Fastfood,$50,13,$650,Online,Mr.,Afternoon,Friday,September,Large,High
+440,2022-11-28,Aalopuri,Fastfood,$20,7,$140,Cash,Mr.,Afternoon,Monday,November,Medium,Medium
+441,2022-02-11,Aalopuri,Fastfood,$20,1,$20,Online,Mrs.,Midnight,Friday,February,Small,Low
+442,2022-08-22,Sugarcane Juice,Beverages,$25,7,$175,Online,Mrs.,Night,Monday,August,Medium,Medium
+443,2022-05-09,Sugarcane Juice,Beverages,$25,12,$300,Cash,Mrs.,Night,Monday,May,Large,High
+444,2022-09-28,Frankie,Fastfood,$50,4,$200,NULL,Mr.,Evening,Wednesday,September,Small,Low
+445,2022-10-22,Sandwich,Fastfood,$60,14,$840,Online,Mrs.,Morning,Saturday,October,Large,High
+446,2022-08-31,Cold Coffee,Beverages,$40,9,$360,Cash,Mr.,Night,Wednesday,August,Medium,Medium
+447,2023-01-17,Frankie,Fastfood,$50,6,$300,Online,Mrs.,Afternoon,Tuesday,January,Medium,Medium
+448,2022-07-27,Vadapav,Fastfood,$20,6,$120,Cash,Mrs.,Evening,Wednesday,July,Medium,Medium
+449,2022-09-09,Frankie,Fastfood,$50,4,$200,Cash,Mr.,Afternoon,Friday,September,Small,Low
+450,2022-05-20,Sugarcane Juice,Beverages,$25,1,$25,Online,Mr.,Morning,Friday,May,Small,Low
+451,2023-03-15,Sugarcane Juice,Beverages,$25,10,$250,Cash,Mrs.,Midnight,Wednesday,March,Medium,Medium
+452,2022-12-25,Frankie,Fastfood,$50,5,$250,Online,Mr.,Afternoon,Sunday,December,Small,Low
+453,2022-10-20,Sandwich,Fastfood,$60,1,$60,Online,Mrs.,Midnight,Thursday,October,Small,Low
+454,2023-07-03,Sandwich,Fastfood,$60,1,$60,Online,Mrs.,Evening,Monday,July,Small,Low
+455,2023-01-03,Cold Coffee,Beverages,$40,11,$440,Cash,Mr.,Midnight,Tuesday,January,Large,High
+456,2022-12-31,Cold Coffee,Beverages,$40,13,$520,NULL,Mrs.,Night,Saturday,December,Large,High
+457,2022-10-16,Cold Coffee,Beverages,$40,11,$440,Cash,Mr.,Evening,Sunday,October,Large,High
+458,2022-12-09,Sugarcane Juice,Beverages,$25,8,$200,Cash,Mrs.,Midnight,Friday,December,Medium,Medium
+459,2022-08-06,Vadapav,Fastfood,$20,14,$280,Cash,Mr.,Night,Saturday,August,Large,High
+460,2022-11-20,Aalopuri,Fastfood,$20,2,$40,Cash,Mr.,Morning,Sunday,November,Small,Low
+461,2022-07-22,Sugarcane Juice,Beverages,$25,5,$125,Cash,Mr.,Midnight,Friday,July,Small,Low
+462,2022-04-24,Vadapav,Fastfood,$20,3,$60,Cash,Mr.,Morning,Sunday,April,Small,Low
+463,2022-11-06,Sandwich,Fastfood,$60,6,$360,Online,Mr.,Midnight,Sunday,November,Medium,Medium
+464,2022-10-18,Sugarcane Juice,Beverages,$25,13,$325,Cash,Mr.,Morning,Tuesday,October,Large,High
+465,2023-01-15,Sugarcane Juice,Beverages,$25,12,$300,Online,Mr.,Evening,Sunday,January,Large,High
+466,2023-11-01,Panipuri,Fastfood,$20,6,$120,Cash,Mr.,Evening,Wednesday,November,Medium,Medium
+467,2022-10-17,Aalopuri,Fastfood,$20,11,$220,Online,Mr.,Morning,Monday,October,Large,High
+468,2022-08-09,Panipuri,Fastfood,$20,2,$40,Cash,Mr.,Evening,Tuesday,August,Small,Low
+469,2022-05-15,Sandwich,Fastfood,$60,7,$420,Online,Mrs.,Morning,Sunday,May,Medium,Medium
+470,2022-09-29,Vadapav,Fastfood,$20,8,$160,Cash,Mrs.,Morning,Thursday,September,Medium,Medium
+471,2023-02-13,Panipuri,Fastfood,$20,7,$140,Cash,Mrs.,Afternoon,Monday,February,Medium,Medium
+472,2023-11-01,Panipuri,Fastfood,$20,10,$200,NULL,Mr.,Midnight,Wednesday,November,Medium,Medium
+473,2022-04-09,Sandwich,Fastfood,$60,5,$300,Cash,Mrs.,Evening,Saturday,April,Small,Low
+474,2022-08-28,Sugarcane Juice,Beverages,$25,15,$375,Cash,Mrs.,Night,Sunday,August,Large,High
+475,2023-02-24,Cold Coffee,Beverages,$40,6,$240,Cash,Mrs.,Night,Friday,February,Medium,Medium
+476,2023-02-02,Aalopuri,Fastfood,$20,10,$200,Cash,Mr.,Morning,Thursday,February,Medium,Medium
+477,2023-02-13,Sandwich,Fastfood,$60,15,$900,Cash,Mrs.,Midnight,Monday,February,Large,High
+478,2022-12-27,Sugarcane Juice,Beverages,$25,9,$225,Cash,Mrs.,Afternoon,Tuesday,December,Medium,Medium
+479,2023-02-13,Sandwich,Fastfood,$60,11,$660,Cash,Mrs.,Afternoon,Monday,February,Large,High
+480,2022-02-10,Vadapav,Fastfood,$20,12,$240,Cash,Mr.,Evening,Thursday,February,Large,High
+481,2022-10-29,Sugarcane Juice,Beverages,$25,4,$100,Cash,Mr.,Evening,Saturday,October,Small,Low
+482,2023-01-31,Aalopuri,Fastfood,$20,1,$20,Online,Mr.,Afternoon,Tuesday,January,Small,Low
+483,2022-04-27,Panipuri,Fastfood,$20,9,$180,Cash,Mrs.,Morning,Wednesday,April,Medium,Medium
+484,2023-03-21,Cold Coffee,Beverages,$40,5,$200,Cash,Mrs.,Afternoon,Tuesday,March,Small,Low
+485,2023-02-26,Aalopuri,Fastfood,$20,6,$120,Cash,Mrs.,Midnight,Sunday,February,Medium,Medium
+486,2023-02-14,Vadapav,Fastfood,$20,6,$120,Cash,Mrs.,Midnight,Tuesday,February,Medium,Medium
+487,2022-05-27,Sandwich,Fastfood,$60,9,$540,Cash,Mrs.,Midnight,Friday,May,Medium,Medium
+488,2022-09-21,Cold Coffee,Beverages,$40,10,$400,Cash,Mr.,Midnight,Wednesday,September,Medium,Medium
+489,2023-03-02,Frankie,Fastfood,$50,13,$650,Online,Mrs.,Evening,Thursday,March,Large,High
+490,2022-12-26,Cold Coffee,Beverages,$40,8,$320,Cash,Mr.,Morning,Monday,December,Medium,Medium
+491,2022-05-31,Vadapav,Fastfood,$20,2,$40,Online,Mrs.,Midnight,Tuesday,May,Small,Low
+492,2022-11-07,Sandwich,Fastfood,$60,15,$900,Cash,Mr.,Afternoon,Monday,November,Large,High
+493,2022-02-10,Cold Coffee,Beverages,$40,2,$80,Online,Mr.,Morning,Thursday,February,Small,Low
+494,2023-01-14,Cold Coffee,Beverages,$40,10,$400,Cash,Mrs.,Night,Saturday,January,Medium,Medium
+495,2022-10-20,Aalopuri,Fastfood,$20,13,$260,Online,Mrs.,Midnight,Thursday,October,Large,High
+496,2022-07-11,Cold Coffee,Beverages,$40,10,$400,Online,Mrs.,Night,Monday,July,Medium,Medium
+497,2023-01-25,Sandwich,Fastfood,$60,7,$420,Cash,Mr.,Midnight,Wednesday,January,Medium,Medium
+498,2022-06-16,Frankie,Fastfood,$50,1,$50,Cash,Mr.,Midnight,Thursday,June,Small,Low
+499,2022-07-27,Sandwich,Fastfood,$60,8,$480,Online,Mrs.,Evening,Wednesday,July,Medium,Medium
+500,2022-08-04,Vadapav,Fastfood,$20,4,$80,Online,Mrs.,Midnight,Thursday,August,Small,Low
+501,2022-09-08,Sugarcane Juice,Beverages,$25,14,$350,Online,Mrs.,Afternoon,Thursday,September,Large,High
+502,2023-04-01,Panipuri,Fastfood,$20,13,$260,Online,Mr.,Night,Saturday,April,Large,High
+503,2022-04-11,Aalopuri,Fastfood,$20,13,$260,Cash,Mrs.,Morning,Monday,April,Large,High
+504,2022-09-12,Cold Coffee,Beverages,$40,8,$320,Cash,Mr.,Evening,Monday,September,Medium,Medium
+505,2023-12-02,Frankie,Fastfood,$50,4,$200,Cash,Mr.,Night,Saturday,December,Small,Low
+506,2022-12-26,Cold Coffee,Beverages,$40,12,$480,Cash,Mrs.,Midnight,Monday,December,Large,High
+507,2022-12-14,Aalopuri,Fastfood,$20,14,$280,Online,Mrs.,Morning,Wednesday,December,Large,High
+508,2022-10-12,Sandwich,Fastfood,$60,1,$60,Cash,Mr.,Night,Wednesday,October,Small,Low
+509,2022-10-26,Vadapav,Fastfood,$20,11,$220,Online,Mr.,Evening,Wednesday,October,Large,High
+510,2022-04-04,Sandwich,Fastfood,$60,14,$840,Online,Mr.,Afternoon,Monday,April,Large,High
+511,2022-02-08,Panipuri,Fastfood,$20,4,$80,Cash,Mrs.,Night,Tuesday,February,Small,Low
+512,2023-11-01,Panipuri,Fastfood,$20,3,$60,Cash,Mrs.,Afternoon,Wednesday,November,Small,Low
+513,2022-07-16,Cold Coffee,Beverages,$40,5,$200,Cash,Mrs.,Night,Saturday,July,Small,Low
+514,2022-08-24,Cold Coffee,Beverages,$40,8,$320,Online,Mrs.,Evening,Wednesday,August,Medium,Medium
+515,2022-02-11,Sandwich,Fastfood,$60,7,$420,NULL,Mrs.,Night,Friday,February,Medium,Medium
+516,2022-09-22,Sugarcane Juice,Beverages,$25,12,$300,Online,Mrs.,Midnight,Thursday,September,Large,High
+517,2022-02-07,Panipuri,Fastfood,$20,13,$260,Online,Mr.,Evening,Monday,February,Large,High
+518,2022-09-12,Aalopuri,Fastfood,$20,6,$120,Cash,Mrs.,Morning,Monday,September,Medium,Medium
+519,2022-11-25,Cold Coffee,Beverages,$40,10,$400,Cash,Mr.,Morning,Friday,November,Medium,Medium
+520,2022-03-04,Panipuri,Fastfood,$20,11,$220,Online,Mrs.,Night,Friday,March,Large,High
+521,2023-01-27,Panipuri,Fastfood,$20,14,$280,Online,Mr.,Morning,Friday,January,Large,High
+522,2022-12-29,Panipuri,Fastfood,$20,13,$260,Cash,Mrs.,Midnight,Thursday,December,Large,High
+523,2022-03-11,Frankie,Fastfood,$50,6,$300,Cash,Mr.,Afternoon,Friday,March,Medium,Medium
+524,2022-01-05,Aalopuri,Fastfood,$20,13,$260,Online,Mr.,Afternoon,Wednesday,January,Large,High
+525,2022-04-05,Vadapav,Fastfood,$20,3,$60,Cash,Mr.,Midnight,Tuesday,April,Small,Low
+526,2022-04-07,Sandwich,Fastfood,$60,10,$600,Cash,Mrs.,Evening,Thursday,April,Medium,Medium
+527,2023-06-01,Sugarcane Juice,Beverages,$25,6,$150,Cash,Mrs.,Afternoon,Thursday,June,Medium,Medium
+528,2022-01-07,Sugarcane Juice,Beverages,$25,7,$175,Cash,Mrs.,Midnight,Friday,January,Medium,Medium
+529,2022-05-15,Aalopuri,Fastfood,$20,12,$240,NULL,Mrs.,Afternoon,Sunday,May,Large,High
+530,2022-07-27,Panipuri,Fastfood,$20,6,$120,Cash,Mrs.,Night,Wednesday,July,Medium,Medium
+531,2022-04-10,Cold Coffee,Beverages,$40,10,$400,Cash,Mr.,Night,Sunday,April,Medium,Medium
+532,2023-03-27,Panipuri,Fastfood,$20,13,$260,Online,Mrs.,Midnight,Monday,March,Large,High
+533,2023-05-02,Frankie,Fastfood,$50,2,$100,NULL,Mrs.,Night,Tuesday,May,Small,Low
+534,2022-05-16,Vadapav,Fastfood,$20,2,$40,Online,Mrs.,Night,Monday,May,Small,Low
+535,2022-05-09,Sandwich,Fastfood,$60,4,$240,Online,Mr.,Midnight,Monday,May,Small,Low
+536,2023-01-03,Sugarcane Juice,Beverages,$25,7,$175,Cash,Mrs.,Evening,Tuesday,January,Medium,Medium
+537,2023-01-25,Panipuri,Fastfood,$20,3,$60,Cash,Mr.,Evening,Wednesday,January,Small,Low
+538,2022-05-06,Panipuri,Fastfood,$20,7,$140,Online,Mr.,Morning,Friday,May,Medium,Medium
+539,2022-07-09,Panipuri,Fastfood,$20,3,$60,Online,Mr.,Evening,Saturday,July,Small,Low
+540,2022-05-27,Vadapav,Fastfood,$20,13,$260,Cash,Mr.,Afternoon,Friday,May,Large,High
+541,2022-07-30,Panipuri,Fastfood,$20,12,$240,Cash,Mr.,Night,Saturday,July,Large,High
+542,2022-04-08,Sugarcane Juice,Beverages,$25,9,$225,Cash,Mr.,Evening,Friday,April,Medium,Medium
+543,2022-10-04,Aalopuri,Fastfood,$20,15,$300,Cash,Mrs.,Evening,Tuesday,October,Large,High
+544,2022-12-14,Sandwich,Fastfood,$60,15,$900,Online,Mrs.,Morning,Wednesday,December,Large,High
+545,2023-01-01,Sandwich,Fastfood,$60,13,$780,Online,Mrs.,Midnight,Sunday,January,Large,High
+546,2022-09-07,Aalopuri,Fastfood,$20,1,$20,Cash,Mrs.,Midnight,Wednesday,September,Small,Low
+547,2022-05-14,Cold Coffee,Beverages,$40,10,$400,Online,Mr.,Morning,Saturday,May,Medium,Medium
+548,2023-03-29,Cold Coffee,Beverages,$40,14,$560,Cash,Mr.,Afternoon,Wednesday,March,Large,High
+549,2022-04-15,Sugarcane Juice,Beverages,$25,3,$75,Online,Mr.,Afternoon,Friday,April,Small,Low
+550,2022-11-15,Cold Coffee,Beverages,$40,15,$600,Online,Mr.,Afternoon,Tuesday,November,Large,High
+551,2022-07-30,Sugarcane Juice,Beverages,$25,7,$175,Cash,Mr.,Evening,Saturday,July,Medium,Medium
+552,2022-12-09,Sugarcane Juice,Beverages,$25,15,$375,Cash,Mrs.,Midnight,Friday,December,Large,High
+553,2022-11-11,Panipuri,Fastfood,$20,14,$280,Cash,Mr.,Evening,Friday,November,Large,High
+554,2023-09-03,Panipuri,Fastfood,$20,4,$80,Cash,Mrs.,Afternoon,Sunday,September,Small,Low
+555,2022-04-16,Sandwich,Fastfood,$60,6,$360,Cash,Mrs.,Evening,Saturday,April,Medium,Medium
+556,2023-02-27,Vadapav,Fastfood,$20,9,$180,Cash,Mrs.,Night,Monday,February,Medium,Medium
+557,2022-06-30,Sandwich,Fastfood,$60,2,$120,Cash,Mrs.,Evening,Thursday,June,Small,Low
+558,2022-01-10,Panipuri,Fastfood,$20,5,$100,Online,Mr.,Morning,Monday,January,Small,Low
+559,2022-08-31,Cold Coffee,Beverages,$40,5,$200,Online,Mrs.,Night,Wednesday,August,Small,Low
+560,2022-10-12,Sugarcane Juice,Beverages,$25,1,$25,Cash,Mr.,Evening,Wednesday,October,Small,Low
+561,2022-06-13,Panipuri,Fastfood,$20,1,$20,Cash,Mrs.,Midnight,Monday,June,Small,Low
+562,2022-09-08,Frankie,Fastfood,$50,4,$200,Cash,Mr.,Afternoon,Thursday,September,Small,Low
+563,2022-10-13,Frankie,Fastfood,$50,7,$350,Online,Mrs.,Evening,Thursday,October,Medium,Medium
+564,2022-09-27,Cold Coffee,Beverages,$40,2,$80,NULL,Mr.,Morning,Tuesday,September,Small,Low
+565,2022-09-27,Panipuri,Fastfood,$20,15,$300,Cash,Mr.,Evening,Tuesday,September,Large,High
+566,2022-07-19,Frankie,Fastfood,$50,3,$150,Cash,Mr.,Evening,Tuesday,July,Small,Low
+567,2022-10-16,Cold Coffee,Beverages,$40,7,$280,Online,Mrs.,Afternoon,Sunday,October,Medium,Medium
+568,2022-12-29,Panipuri,Fastfood,$20,12,$240,NULL,Mrs.,Afternoon,Thursday,December,Large,High
+569,2023-02-01,Cold Coffee,Beverages,$40,15,$600,Online,Mrs.,Midnight,Wednesday,February,Large,High
+570,2022-09-15,Sugarcane Juice,Beverages,$25,4,$100,Cash,Mr.,Morning,Thursday,September,Small,Low
+571,2022-11-28,Sugarcane Juice,Beverages,$25,1,$25,Cash,Mrs.,Evening,Monday,November,Small,Low
+572,2022-02-04,Sandwich,Fastfood,$60,15,$900,Cash,Mr.,Afternoon,Friday,February,Large,High
+573,2022-07-09,Frankie,Fastfood,$50,2,$100,Cash,Mr.,Afternoon,Saturday,July,Small,Low
+574,2022-10-22,Aalopuri,Fastfood,$20,1,$20,Cash,Mrs.,Night,Saturday,October,Small,Low
+575,2022-12-24,Vadapav,Fastfood,$20,1,$20,Online,Mrs.,Midnight,Saturday,December,Small,Low
+576,2023-03-23,Panipuri,Fastfood,$20,12,$240,Cash,Mrs.,Afternoon,Thursday,March,Large,High
+577,2022-06-09,Cold Coffee,Beverages,$40,7,$280,Cash,Mr.,Evening,Thursday,June,Medium,Medium
+578,2022-06-30,Frankie,Fastfood,$50,5,$250,Online,Mrs.,Night,Thursday,June,Small,Low
+579,2022-04-27,Panipuri,Fastfood,$20,2,$40,Cash,Mr.,Evening,Wednesday,April,Small,Low
+580,2022-01-07,Panipuri,Fastfood,$20,10,$200,Online,Mr.,Night,Friday,January,Medium,Medium
+581,2022-04-23,Sugarcane Juice,Beverages,$25,13,$325,Cash,Mr.,Afternoon,Saturday,April,Large,High
+582,2022-12-05,Aalopuri,Fastfood,$20,13,$260,Cash,Mr.,Morning,Monday,December,Large,High
+583,2022-05-31,Frankie,Fastfood,$50,8,$400,Cash,Mr.,Night,Tuesday,May,Medium,Medium
+584,2022-04-12,Cold Coffee,Beverages,$40,15,$600,Cash,Mr.,Morning,Tuesday,April,Large,High
+585,2023-05-03,Vadapav,Fastfood,$20,11,$220,Cash,Mrs.,Morning,Wednesday,May,Large,High
+586,2022-05-22,Sandwich,Fastfood,$60,15,$900,Online,Mr.,Night,Sunday,May,Large,High
+587,2022-09-04,Aalopuri,Fastfood,$20,10,$200,Cash,Mrs.,Night,Sunday,September,Medium,Medium
+588,2022-06-16,Frankie,Fastfood,$50,11,$550,Cash,Mrs.,Morning,Thursday,June,Large,High
+589,2022-08-25,Cold Coffee,Beverages,$40,5,$200,Cash,Mr.,Night,Thursday,August,Small,Low
+590,2023-03-27,Panipuri,Fastfood,$20,15,$300,Online,Mr.,Midnight,Monday,March,Large,High
+591,2022-01-10,Sandwich,Fastfood,$60,13,$780,Cash,Mrs.,Morning,Monday,January,Large,High
+592,2022-04-12,Sugarcane Juice,Beverages,$25,7,$175,Cash,Mr.,Morning,Tuesday,April,Medium,Medium
+593,2023-02-16,Sugarcane Juice,Beverages,$25,9,$225,Cash,Mrs.,Evening,Thursday,February,Medium,Medium
+594,2023-01-20,Frankie,Fastfood,$50,6,$300,Cash,Mrs.,Morning,Friday,January,Medium,Medium
+595,2023-02-22,Frankie,Fastfood,$50,9,$450,Online,Mr.,Afternoon,Wednesday,February,Medium,Medium
+596,2022-04-26,Cold Coffee,Beverages,$40,1,$40,Online,Mrs.,Night,Tuesday,April,Small,Low
+597,2022-11-30,Panipuri,Fastfood,$20,10,$200,Online,Mr.,Midnight,Wednesday,November,Medium,Medium
+598,2022-02-08,Cold Coffee,Beverages,$40,8,$320,Cash,Mrs.,Afternoon,Tuesday,February,Medium,Medium
+599,2022-03-10,Frankie,Fastfood,$50,13,$650,Cash,Mr.,Morning,Thursday,March,Large,High
+600,2022-12-24,Panipuri,Fastfood,$20,6,$120,Cash,Mrs.,Morning,Saturday,December,Medium,Medium
+601,2022-01-11,Aalopuri,Fastfood,$20,12,$240,Online,Mr.,Morning,Tuesday,January,Large,High
+602,2022-08-27,Aalopuri,Fastfood,$20,10,$200,Cash,Mr.,Night,Saturday,August,Medium,Medium
+603,2022-08-31,Vadapav,Fastfood,$20,10,$200,Cash,Mrs.,Afternoon,Wednesday,August,Medium,Medium
+604,2022-08-09,Frankie,Fastfood,$50,10,$500,Cash,Mrs.,Night,Tuesday,August,Medium,Medium
+605,2022-04-04,Cold Coffee,Beverages,$40,15,$600,NULL,Mrs.,Afternoon,Monday,April,Large,High
+606,2022-09-04,Cold Coffee,Beverages,$40,6,$240,Cash,Mrs.,Night,Sunday,September,Medium,Medium
+607,2022-12-15,Vadapav,Fastfood,$20,9,$180,Cash,Mrs.,Afternoon,Thursday,December,Medium,Medium
+608,2023-02-28,Aalopuri,Fastfood,$20,1,$20,Online,Mr.,Midnight,Tuesday,February,Small,Low
+609,2023-07-02,Aalopuri,Fastfood,$20,14,$280,NULL,Mr.,Midnight,Sunday,July,Large,High
+610,2022-08-05,Frankie,Fastfood,$50,13,$650,Online,Mrs.,Evening,Friday,August,Large,High
+611,2022-06-25,Aalopuri,Fastfood,$20,2,$40,Online,Mrs.,Morning,Saturday,June,Small,Low
+612,2023-06-02,Aalopuri,Fastfood,$20,3,$60,Online,Mr.,Midnight,Friday,June,Small,Low
+613,2022-10-06,Vadapav,Fastfood,$20,5,$100,Online,Mrs.,Night,Thursday,October,Small,Low
+614,2022-12-19,Vadapav,Fastfood,$20,2,$40,NULL,Mr.,Morning,Monday,December,Small,Low
+615,2022-08-14,Sandwich,Fastfood,$60,14,$840,NULL,Mr.,Morning,Sunday,August,Large,High
+616,2022-07-15,Vadapav,Fastfood,$20,6,$120,Online,Mrs.,Midnight,Friday,July,Medium,Medium
+617,2022-06-28,Sugarcane Juice,Beverages,$25,2,$50,Cash,Mr.,Night,Tuesday,June,Small,Low
+618,2022-08-04,Frankie,Fastfood,$50,1,$50,Online,Mr.,Evening,Thursday,August,Small,Low
+619,2022-09-09,Sugarcane Juice,Beverages,$25,4,$100,Cash,Mrs.,Morning,Friday,September,Small,Low
+620,2022-09-14,Panipuri,Fastfood,$20,12,$240,Online,Mrs.,Evening,Wednesday,September,Large,High
+621,2023-02-13,Aalopuri,Fastfood,$20,2,$40,Online,Mrs.,Evening,Monday,February,Small,Low
+622,2022-12-14,Panipuri,Fastfood,$20,13,$260,Online,Mr.,Afternoon,Wednesday,December,Large,High
+623,2022-02-04,Cold Coffee,Beverages,$40,15,$600,Cash,Mr.,Midnight,Friday,February,Large,High
+624,2023-08-03,Sandwich,Fastfood,$60,9,$540,Cash,Mrs.,Morning,Thursday,August,Medium,Medium
+625,2022-06-17,Sandwich,Fastfood,$60,15,$900,Online,Mr.,Morning,Friday,June,Large,High
+626,2023-01-02,Cold Coffee,Beverages,$40,15,$600,Cash,Mr.,Night,Monday,January,Large,High
+627,2022-06-22,Sugarcane Juice,Beverages,$25,15,$375,Online,Mr.,Afternoon,Wednesday,June,Large,High
+628,2022-02-05,Cold Coffee,Beverages,$40,10,$400,NULL,Mrs.,Night,Saturday,February,Medium,Medium
+629,2023-01-20,Sugarcane Juice,Beverages,$25,9,$225,Cash,Mrs.,Evening,Friday,January,Medium,Medium
+630,2022-05-27,Frankie,Fastfood,$50,7,$350,NULL,Mrs.,Morning,Friday,May,Medium,Medium
+631,2022-01-07,Cold Coffee,Beverages,$40,13,$520,Cash,Mrs.,Evening,Friday,January,Large,High
+632,2022-10-28,Panipuri,Fastfood,$20,9,$180,Online,Mrs.,Night,Friday,October,Medium,Medium
+633,2022-05-24,Cold Coffee,Beverages,$40,3,$120,Online,Mr.,Evening,Tuesday,May,Small,Low
+634,2022-07-26,Panipuri,Fastfood,$20,13,$260,Cash,Mr.,Afternoon,Tuesday,July,Large,High
+635,2023-06-02,Vadapav,Fastfood,$20,15,$300,Online,Mrs.,Night,Friday,June,Large,High
+636,2022-04-26,Cold Coffee,Beverages,$40,12,$480,NULL,Mr.,Morning,Tuesday,April,Large,High
+637,2022-05-14,Aalopuri,Fastfood,$20,7,$140,Cash,Mr.,Midnight,Saturday,May,Medium,Medium
+638,2022-08-20,Cold Coffee,Beverages,$40,11,$440,Online,Mrs.,Afternoon,Saturday,August,Large,High
+639,2023-01-26,Vadapav,Fastfood,$20,14,$280,Cash,Mrs.,Morning,Thursday,January,Large,High
+640,2023-04-01,Sandwich,Fastfood,$60,15,$900,Online,Mr.,Night,Saturday,April,Large,High
+641,2023-09-02,Vadapav,Fastfood,$20,15,$300,Cash,Mr.,Afternoon,Saturday,September,Large,High
+642,2022-09-05,Cold Coffee,Beverages,$40,10,$400,Online,Mrs.,Morning,Monday,September,Medium,Medium
+643,2022-10-20,Sugarcane Juice,Beverages,$25,2,$50,Cash,Mr.,Afternoon,Thursday,October,Small,Low
+644,2023-03-02,Panipuri,Fastfood,$20,5,$100,Online,Mrs.,Evening,Thursday,March,Small,Low
+645,2022-07-26,Sandwich,Fastfood,$60,9,$540,Cash,Mrs.,Night,Tuesday,July,Medium,Medium
+646,2022-08-30,Vadapav,Fastfood,$20,14,$280,Online,Mrs.,Afternoon,Tuesday,August,Large,High
+647,2022-05-06,Vadapav,Fastfood,$20,3,$60,Cash,Mr.,Afternoon,Friday,May,Small,Low
+648,2022-05-27,Sandwich,Fastfood,$60,7,$420,Cash,Mr.,Night,Friday,May,Medium,Medium
+649,2022-05-11,Frankie,Fastfood,$50,9,$450,Cash,Mr.,Midnight,Wednesday,May,Medium,Medium
+650,2022-07-04,Sandwich,Fastfood,$60,13,$780,Online,Mrs.,Morning,Monday,July,Large,High
+651,2022-11-07,Sandwich,Fastfood,$60,10,$600,Online,Mrs.,Midnight,Monday,November,Medium,Medium
+652,2022-05-21,Cold Coffee,Beverages,$40,13,$520,Online,Mrs.,Afternoon,Saturday,May,Large,High
+653,2022-05-30,Frankie,Fastfood,$50,10,$500,Online,Mrs.,Midnight,Monday,May,Medium,Medium
+654,2023-04-03,Vadapav,Fastfood,$20,9,$180,Cash,Mrs.,Morning,Monday,April,Medium,Medium
+655,2022-06-30,Sugarcane Juice,Beverages,$25,12,$300,Online,Mr.,Morning,Thursday,June,Large,High
+656,2022-11-28,Sandwich,Fastfood,$60,6,$360,Online,Mrs.,Midnight,Monday,November,Medium,Medium
+657,2023-10-01,Cold Coffee,Beverages,$40,7,$280,NULL,Mr.,Midnight,Sunday,October,Medium,Medium
+658,2022-10-10,Aalopuri,Fastfood,$20,12,$240,NULL,Mrs.,Afternoon,Monday,October,Large,High
+659,2023-01-21,Panipuri,Fastfood,$20,2,$40,Online,Mr.,Afternoon,Saturday,January,Small,Low
+660,2022-07-25,Sandwich,Fastfood,$60,9,$540,Cash,Mrs.,Night,Monday,July,Medium,Medium
+661,2022-11-10,Frankie,Fastfood,$50,7,$350,Online,Mrs.,Midnight,Thursday,November,Medium,Medium
+662,2023-02-15,Panipuri,Fastfood,$20,3,$60,Online,Mrs.,Afternoon,Wednesday,February,Small,Low
+663,2023-05-02,Sugarcane Juice,Beverages,$25,1,$25,Online,Mr.,Night,Tuesday,May,Small,Low
+664,2022-10-31,Frankie,Fastfood,$50,10,$500,Online,Mrs.,Morning,Monday,October,Medium,Medium
+665,2022-06-05,Aalopuri,Fastfood,$20,14,$280,Online,Mrs.,Evening,Sunday,June,Large,High
+666,2023-01-25,Panipuri,Fastfood,$20,9,$180,Cash,Mr.,Evening,Wednesday,January,Medium,Medium
+667,2022-09-28,Vadapav,Fastfood,$20,3,$60,Cash,Mrs.,Evening,Wednesday,September,Small,Low
+668,2022-11-05,Aalopuri,Fastfood,$20,4,$80,Online,Mr.,Morning,Saturday,November,Small,Low
+669,2023-03-18,Sandwich,Fastfood,$60,11,$660,Online,Mr.,Evening,Saturday,March,Large,High
+670,2022-05-07,Panipuri,Fastfood,$20,15,$300,Cash,Mr.,Night,Saturday,May,Large,High
+671,2022-09-10,Sandwich,Fastfood,$60,2,$120,Online,Mr.,Afternoon,Saturday,September,Small,Low
+672,2022-11-24,Cold Coffee,Beverages,$40,3,$120,NULL,Mrs.,Evening,Thursday,November,Small,Low
+673,2022-09-17,Sandwich,Fastfood,$60,12,$720,Cash,Mr.,Midnight,Saturday,September,Large,High
+674,2022-07-17,Sugarcane Juice,Beverages,$25,13,$325,NULL,Mr.,Morning,Sunday,July,Large,High
+675,2022-04-17,Sandwich,Fastfood,$60,12,$720,Cash,Mr.,Night,Sunday,April,Large,High
+676,2022-04-05,Frankie,Fastfood,$50,7,$350,Cash,Mrs.,Evening,Tuesday,April,Medium,Medium
+677,2022-05-19,Cold Coffee,Beverages,$40,3,$120,Online,Mrs.,Morning,Thursday,May,Small,Low
+678,2022-05-23,Aalopuri,Fastfood,$20,3,$60,Online,Mr.,Evening,Monday,May,Small,Low
+679,2022-02-11,Sandwich,Fastfood,$60,12,$720,Online,Mr.,Morning,Friday,February,Large,High
+680,2022-04-20,Cold Coffee,Beverages,$40,4,$160,Cash,Mr.,Night,Wednesday,April,Small,Low
+681,2022-09-12,Frankie,Fastfood,$50,9,$450,Online,Mrs.,Night,Monday,September,Medium,Medium
+682,2022-11-10,Aalopuri,Fastfood,$20,14,$280,Online,Mr.,Midnight,Thursday,November,Large,High
+683,2022-12-08,Frankie,Fastfood,$50,15,$750,Cash,Mr.,Midnight,Thursday,December,Large,High
+684,2022-09-18,Vadapav,Fastfood,$20,5,$100,Cash,Mr.,Afternoon,Sunday,September,Small,Low
+685,2022-05-20,Aalopuri,Fastfood,$20,3,$60,Cash,Mrs.,Afternoon,Friday,May,Small,Low
+686,2022-11-25,Cold Coffee,Beverages,$40,5,$200,Cash,Mr.,Afternoon,Friday,November,Small,Low
+687,2022-12-18,Vadapav,Fastfood,$20,10,$200,Cash,Mrs.,Midnight,Sunday,December,Medium,Medium
+688,2022-05-14,Frankie,Fastfood,$50,5,$250,Online,Mr.,Afternoon,Saturday,May,Small,Low
+689,2022-08-13,Vadapav,Fastfood,$20,6,$120,Cash,Mrs.,Afternoon,Saturday,August,Medium,Medium
+690,2022-05-10,Vadapav,Fastfood,$20,9,$180,Cash,Mrs.,Night,Tuesday,May,Medium,Medium
+691,2022-01-04,Sandwich,Fastfood,$60,7,$420,Cash,Mrs.,Evening,Tuesday,January,Medium,Medium
+692,2023-01-13,Frankie,Fastfood,$50,14,$700,Online,Mr.,Afternoon,Friday,January,Large,High
+693,2022-11-29,Sugarcane Juice,Beverages,$25,13,$325,Online,Mrs.,Midnight,Tuesday,November,Large,High
+694,2022-04-22,Panipuri,Fastfood,$20,14,$280,Cash,Mr.,Midnight,Friday,April,Large,High
+695,2022-08-24,Panipuri,Fastfood,$20,10,$200,Online,Mrs.,Midnight,Wednesday,August,Medium,Medium
+696,2023-02-23,Sugarcane Juice,Beverages,$25,3,$75,Online,Mrs.,Evening,Thursday,February,Small,Low
+697,2022-05-05,Sugarcane Juice,Beverages,$25,5,$125,Cash,Mr.,Midnight,Thursday,May,Small,Low
+698,2022-11-26,Panipuri,Fastfood,$20,10,$200,Online,Mr.,Night,Saturday,November,Medium,Medium
+699,2022-09-09,Cold Coffee,Beverages,$40,1,$40,Online,Mr.,Evening,Friday,September,Small,Low
+700,2022-11-15,Frankie,Fastfood,$50,6,$300,Cash,Mrs.,Evening,Tuesday,November,Medium,Medium
+701,2022-07-19,Sugarcane Juice,Beverages,$25,14,$350,Online,Mrs.,Evening,Tuesday,July,Large,High
+702,2023-03-25,Cold Coffee,Beverages,$40,13,$520,Cash,Mrs.,Afternoon,Saturday,March,Large,High
+703,2022-01-11,Panipuri,Fastfood,$20,10,$200,Online,Mrs.,Afternoon,Tuesday,January,Medium,Medium
+704,2022-08-14,Sandwich,Fastfood,$60,1,$60,Online,Mrs.,Evening,Sunday,August,Small,Low
+705,2022-07-10,Sandwich,Fastfood,$60,6,$360,Online,Mr.,Evening,Sunday,July,Medium,Medium
+706,2023-05-02,Frankie,Fastfood,$50,8,$400,Online,Mr.,Night,Tuesday,May,Medium,Medium
+707,2022-12-16,Panipuri,Fastfood,$20,2,$40,Online,Mr.,Night,Friday,December,Small,Low
+708,2023-03-15,Sandwich,Fastfood,$60,5,$300,Cash,Mrs.,Midnight,Wednesday,March,Small,Low
+709,2023-02-22,Cold Coffee,Beverages,$40,6,$240,Cash,Mr.,Morning,Wednesday,February,Medium,Medium
+710,2023-03-15,Sandwich,Fastfood,$60,15,$900,NULL,Mr.,Night,Wednesday,March,Large,High
+711,2022-10-30,Aalopuri,Fastfood,$20,3,$60,Cash,Mr.,Afternoon,Sunday,October,Small,Low
+712,2022-12-17,Vadapav,Fastfood,$20,3,$60,Online,Mrs.,Midnight,Saturday,December,Small,Low
+713,2022-02-12,Sugarcane Juice,Beverages,$25,14,$350,Online,Mrs.,Morning,Saturday,February,Large,High
+714,2022-12-14,Sugarcane Juice,Beverages,$25,14,$350,Cash,Mr.,Afternoon,Wednesday,December,Large,High
+715,2022-12-04,Sandwich,Fastfood,$60,1,$60,Online,Mr.,Morning,Sunday,December,Small,Low
+716,2022-03-12,Panipuri,Fastfood,$20,9,$180,Cash,Mrs.,Midnight,Saturday,March,Medium,Medium
+717,2022-11-10,Sugarcane Juice,Beverages,$25,15,$375,NULL,Mrs.,Evening,Thursday,November,Large,High
+718,2022-12-28,Aalopuri,Fastfood,$20,2,$40,Online,Mr.,Afternoon,Wednesday,December,Small,Low
+719,2022-09-05,Vadapav,Fastfood,$20,15,$300,Cash,Mrs.,Midnight,Monday,September,Large,High
+720,2022-10-05,Frankie,Fastfood,$50,14,$700,Cash,Mrs.,Morning,Wednesday,October,Large,High
+721,2022-08-13,Panipuri,Fastfood,$20,12,$240,NULL,Mr.,Afternoon,Saturday,August,Large,High
+722,2022-09-14,Vadapav,Fastfood,$20,15,$300,NULL,Mr.,Midnight,Wednesday,September,Large,High
+723,2023-02-16,Cold Coffee,Beverages,$40,10,$400,Online,Mr.,Evening,Thursday,February,Medium,Medium
+724,2022-06-27,Frankie,Fastfood,$50,10,$500,Cash,Mrs.,Night,Monday,June,Medium,Medium
+725,2022-04-07,Vadapav,Fastfood,$20,6,$120,Online,Mrs.,Afternoon,Thursday,April,Medium,Medium
+726,2022-11-09,Panipuri,Fastfood,$20,1,$20,Online,Mr.,Morning,Wednesday,November,Small,Low
+727,2022-08-25,Aalopuri,Fastfood,$20,5,$100,Cash,Mrs.,Midnight,Thursday,August,Small,Low
+728,2022-03-08,Vadapav,Fastfood,$20,1,$20,Online,Mr.,Midnight,Tuesday,March,Small,Low
+729,2022-11-24,Sandwich,Fastfood,$60,7,$420,Cash,Mr.,Night,Thursday,November,Medium,Medium
+730,2022-06-28,Frankie,Fastfood,$50,13,$650,Cash,Mrs.,Afternoon,Tuesday,June,Large,High
+731,2023-09-03,Frankie,Fastfood,$50,10,$500,Cash,Mrs.,Afternoon,Sunday,September,Medium,Medium
+732,2022-06-13,Panipuri,Fastfood,$20,7,$140,NULL,Mrs.,Midnight,Monday,June,Medium,Medium
+733,2023-03-02,Frankie,Fastfood,$50,10,$500,Cash,Mr.,Evening,Thursday,March,Medium,Medium
+734,2022-07-10,Frankie,Fastfood,$50,7,$350,Cash,Mr.,Evening,Sunday,July,Medium,Medium
+735,2022-10-08,Panipuri,Fastfood,$20,11,$220,Cash,Mr.,Morning,Saturday,October,Large,High
+736,2022-09-25,Panipuri,Fastfood,$20,13,$260,NULL,Mr.,Afternoon,Sunday,September,Large,High
+737,2022-09-20,Frankie,Fastfood,$50,13,$650,Online,Mrs.,Night,Tuesday,September,Large,High
+738,2023-01-03,Sandwich,Fastfood,$60,4,$240,Online,Mrs.,Morning,Tuesday,January,Small,Low
+739,2022-06-06,Aalopuri,Fastfood,$20,11,$220,Online,Mr.,Night,Monday,June,Large,High
+740,2022-07-30,Aalopuri,Fastfood,$20,9,$180,Cash,Mr.,Midnight,Saturday,July,Medium,Medium
+741,2022-07-16,Aalopuri,Fastfood,$20,5,$100,Online,Mr.,Afternoon,Saturday,July,Small,Low
+742,2022-11-18,Panipuri,Fastfood,$20,14,$280,Online,Mr.,Night,Friday,November,Large,High
+743,2022-09-11,Panipuri,Fastfood,$20,1,$20,Cash,Mr.,Morning,Sunday,September,Small,Low
+744,2022-06-25,Frankie,Fastfood,$50,10,$500,Cash,Mrs.,Morning,Saturday,June,Medium,Medium
+745,2022-11-09,Aalopuri,Fastfood,$20,2,$40,Online,Mr.,Evening,Wednesday,November,Small,Low
+746,2022-05-08,Sugarcane Juice,Beverages,$25,5,$125,Online,Mrs.,Midnight,Sunday,May,Small,Low
+747,2023-01-14,Cold Coffee,Beverages,$40,3,$120,Cash,Mrs.,Midnight,Saturday,January,Small,Low
+748,2022-09-20,Sandwich,Fastfood,$60,14,$840,Cash,Mrs.,Night,Tuesday,September,Large,High
+749,2022-08-31,Vadapav,Fastfood,$20,11,$220,Cash,Mr.,Morning,Wednesday,August,Large,High
+750,2023-01-02,Frankie,Fastfood,$50,1,$50,Online,Mr.,Evening,Monday,January,Small,Low
+751,2022-09-16,Vadapav,Fastfood,$20,2,$40,Cash,Mr.,Afternoon,Friday,September,Small,Low
+752,2022-04-06,Panipuri,Fastfood,$20,2,$40,Online,Mrs.,Morning,Wednesday,April,Small,Low
+753,2022-06-26,Sugarcane Juice,Beverages,$25,1,$25,Cash,Mr.,Midnight,Sunday,June,Small,Low
+754,2022-12-29,Sugarcane Juice,Beverages,$25,14,$350,Cash,Mrs.,Evening,Thursday,December,Large,High
+755,2023-02-01,Aalopuri,Fastfood,$20,12,$240,Cash,Mrs.,Night,Wednesday,February,Large,High
+756,2022-10-21,Sugarcane Juice,Beverages,$25,10,$250,Online,Mrs.,Morning,Friday,October,Medium,Medium
+757,2022-12-25,Sugarcane Juice,Beverages,$25,11,$275,Online,Mr.,Morning,Sunday,December,Large,High
+758,2022-09-25,Vadapav,Fastfood,$20,3,$60,Cash,Mrs.,Evening,Sunday,September,Small,Low
+759,2022-12-25,Sugarcane Juice,Beverages,$25,13,$325,Online,Mr.,Midnight,Sunday,December,Large,High
+760,2022-11-14,Sugarcane Juice,Beverages,$25,1,$25,Online,Mrs.,Evening,Monday,November,Small,Low
+761,2022-12-11,Sandwich,Fastfood,$60,3,$180,NULL,Mrs.,Midnight,Sunday,December,Small,Low
+762,2022-09-04,Vadapav,Fastfood,$20,12,$240,Online,Mrs.,Midnight,Sunday,September,Large,High
+763,2022-04-07,Vadapav,Fastfood,$20,14,$280,NULL,Mrs.,Night,Thursday,April,Large,High
+764,2023-02-14,Sandwich,Fastfood,$60,7,$420,Cash,Mrs.,Night,Tuesday,February,Medium,Medium
+765,2022-06-15,Sandwich,Fastfood,$60,13,$780,Cash,Mr.,Night,Wednesday,June,Large,High
+766,2022-06-19,Sandwich,Fastfood,$60,10,$600,Online,Mrs.,Morning,Sunday,June,Medium,Medium
+767,2023-02-26,Frankie,Fastfood,$50,8,$400,Cash,Mrs.,Afternoon,Sunday,February,Medium,Medium
+768,2023-12-01,Sandwich,Fastfood,$60,14,$840,Cash,Mr.,Afternoon,Friday,December,Large,High
+769,2022-07-06,Frankie,Fastfood,$50,8,$400,Cash,Mr.,Morning,Wednesday,July,Medium,Medium
+770,2023-02-22,Aalopuri,Fastfood,$20,8,$160,Cash,Mrs.,Morning,Wednesday,February,Medium,Medium
+771,2022-08-15,Panipuri,Fastfood,$20,5,$100,Online,Mrs.,Midnight,Monday,August,Small,Low
+772,2023-03-20,Cold Coffee,Beverages,$40,9,$360,Cash,Mr.,Evening,Monday,March,Medium,Medium
+773,2022-08-14,Cold Coffee,Beverages,$40,7,$280,Online,Mr.,Afternoon,Sunday,August,Medium,Medium
+774,2023-03-15,Vadapav,Fastfood,$20,1,$20,Online,Mrs.,Night,Wednesday,March,Small,Low
+775,2023-03-27,Sandwich,Fastfood,$60,6,$360,Cash,Mr.,Night,Monday,March,Medium,Medium
+776,2023-07-02,Frankie,Fastfood,$50,10,$500,Cash,Mr.,Midnight,Sunday,July,Medium,Medium
+777,2022-10-23,Panipuri,Fastfood,$20,13,$260,Cash,Mr.,Morning,Sunday,October,Large,High
+778,2022-11-06,Frankie,Fastfood,$50,13,$650,Cash,Mr.,Evening,Sunday,November,Large,High
+779,2023-01-16,Sandwich,Fastfood,$60,13,$780,NULL,Mr.,Night,Monday,January,Large,High
+780,2022-11-27,Sugarcane Juice,Beverages,$25,13,$325,Online,Mrs.,Afternoon,Sunday,November,Large,High
+781,2022-05-27,Aalopuri,Fastfood,$20,10,$200,Online,Mr.,Midnight,Friday,May,Medium,Medium
+782,2022-12-16,Aalopuri,Fastfood,$20,5,$100,Online,Mr.,Night,Friday,December,Small,Low
+783,2022-04-29,Aalopuri,Fastfood,$20,8,$160,Cash,Mr.,Morning,Friday,April,Medium,Medium
+784,2022-09-07,Vadapav,Fastfood,$20,8,$160,Cash,Mrs.,Morning,Wednesday,September,Medium,Medium
+785,2022-07-12,Aalopuri,Fastfood,$20,2,$40,Online,Mr.,Afternoon,Tuesday,July,Small,Low
+786,2023-03-13,Sandwich,Fastfood,$60,14,$840,Online,Mrs.,Night,Monday,March,Large,High
+787,2023-03-25,Aalopuri,Fastfood,$20,2,$40,Cash,Mrs.,Afternoon,Saturday,March,Small,Low
+788,2022-08-13,Sugarcane Juice,Beverages,$25,7,$175,Online,Mr.,Afternoon,Saturday,August,Medium,Medium
+789,2022-03-08,Sugarcane Juice,Beverages,$25,7,$175,Cash,Mr.,Morning,Tuesday,March,Medium,Medium
+790,2022-07-20,Panipuri,Fastfood,$20,3,$60,Cash,Mrs.,Evening,Wednesday,July,Small,Low
+791,2022-07-04,Vadapav,Fastfood,$20,3,$60,NULL,Mr.,Midnight,Monday,July,Small,Low
+792,2023-02-25,Vadapav,Fastfood,$20,2,$40,Cash,Mrs.,Morning,Saturday,February,Small,Low
+793,2022-08-30,Sandwich,Fastfood,$60,6,$360,Cash,Mrs.,Night,Tuesday,August,Medium,Medium
+794,2022-02-10,Sugarcane Juice,Beverages,$25,5,$125,Online,Mr.,Afternoon,Thursday,February,Small,Low
+795,2023-10-01,Vadapav,Fastfood,$20,9,$180,Cash,Mr.,Evening,Sunday,October,Medium,Medium
+796,2022-06-25,Sugarcane Juice,Beverages,$25,14,$350,Online,Mr.,Night,Saturday,June,Large,High
+797,2022-11-26,Cold Coffee,Beverages,$40,11,$440,Cash,Mr.,Night,Saturday,November,Large,High
+798,2022-05-22,Frankie,Fastfood,$50,12,$600,NULL,Mr.,Night,Sunday,May,Large,High
+799,2023-11-01,Panipuri,Fastfood,$20,1,$20,Online,Mrs.,Night,Wednesday,November,Small,Low
+800,2022-06-11,Cold Coffee,Beverages,$40,14,$560,Cash,Mr.,Night,Saturday,June,Large,High
+801,2022-04-28,Aalopuri,Fastfood,$20,7,$140,Cash,Mrs.,Evening,Thursday,April,Medium,Medium
+802,2023-01-23,Sandwich,Fastfood,$60,7,$420,Online,Mrs.,Afternoon,Monday,January,Medium,Medium
+803,2022-08-27,Vadapav,Fastfood,$20,5,$100,NULL,Mr.,Night,Saturday,August,Small,Low
+804,2022-11-10,Cold Coffee,Beverages,$40,12,$480,Online,Mrs.,Night,Thursday,November,Large,High
+805,2022-08-05,Sugarcane Juice,Beverages,$25,1,$25,Online,Mr.,Afternoon,Friday,August,Small,Low
+806,2022-05-23,Vadapav,Fastfood,$20,3,$60,Online,Mr.,Evening,Monday,May,Small,Low
+807,2022-06-13,Frankie,Fastfood,$50,1,$50,Online,Mrs.,Midnight,Monday,June,Small,Low
+808,2022-09-21,Panipuri,Fastfood,$20,1,$20,Online,Mr.,Morning,Wednesday,September,Small,Low
+809,2022-12-12,Panipuri,Fastfood,$20,10,$200,Online,Mr.,Evening,Monday,December,Medium,Medium
+810,2022-12-27,Vadapav,Fastfood,$20,3,$60,Online,Mr.,Morning,Tuesday,December,Small,Low
+811,2023-02-03,Aalopuri,Fastfood,$20,13,$260,Cash,Mr.,Afternoon,Friday,February,Large,High
+812,2022-08-08,Panipuri,Fastfood,$20,5,$100,Cash,Mr.,Afternoon,Monday,August,Small,Low
+813,2022-10-13,Panipuri,Fastfood,$20,10,$200,Online,Mr.,Afternoon,Thursday,October,Medium,Medium
+814,2022-05-10,Vadapav,Fastfood,$20,13,$260,Cash,Mrs.,Midnight,Tuesday,May,Large,High
+815,2022-04-20,Cold Coffee,Beverages,$40,12,$480,Online,Mrs.,Afternoon,Wednesday,April,Large,High
+816,2023-11-01,Sugarcane Juice,Beverages,$25,11,$275,Cash,Mr.,Morning,Wednesday,November,Large,High
+817,2022-05-21,Aalopuri,Fastfood,$20,12,$240,Cash,Mrs.,Evening,Saturday,May,Large,High
+818,2023-02-28,Frankie,Fastfood,$50,6,$300,Cash,Mr.,Night,Tuesday,February,Medium,Medium
+819,2022-12-10,Vadapav,Fastfood,$20,10,$200,Cash,Mr.,Evening,Saturday,December,Medium,Medium
+820,2023-02-24,Aalopuri,Fastfood,$20,3,$60,NULL,Mr.,Midnight,Friday,February,Small,Low
+821,2022-07-24,Aalopuri,Fastfood,$20,12,$240,Cash,Mrs.,Midnight,Sunday,July,Large,High
+822,2022-06-17,Panipuri,Fastfood,$20,12,$240,Online,Mr.,Morning,Friday,June,Large,High
+823,2023-02-13,Panipuri,Fastfood,$20,11,$220,Online,Mr.,Midnight,Monday,February,Large,High
+824,2023-01-18,Vadapav,Fastfood,$20,2,$40,Online,Mrs.,Evening,Wednesday,January,Small,Low
+825,2022-10-30,Panipuri,Fastfood,$20,14,$280,Cash,Mrs.,Morning,Sunday,October,Large,High
+826,2022-02-12,Sandwich,Fastfood,$60,15,$900,Cash,Mrs.,Night,Saturday,February,Large,High
+827,2023-06-01,Sandwich,Fastfood,$60,12,$720,Cash,Mr.,Midnight,Thursday,June,Large,High
+828,2022-08-18,Panipuri,Fastfood,$20,6,$120,Cash,Mr.,Evening,Thursday,August,Medium,Medium
+829,2022-09-19,Cold Coffee,Beverages,$40,6,$240,Cash,Mr.,Night,Monday,September,Medium,Medium
+830,2022-11-28,Cold Coffee,Beverages,$40,9,$360,NULL,Mr.,Night,Monday,November,Medium,Medium
+831,2022-01-08,Frankie,Fastfood,$50,5,$250,Online,Mrs.,Morning,Saturday,January,Small,Low
+832,2022-06-06,Sugarcane Juice,Beverages,$25,4,$100,Cash,Mr.,Morning,Monday,June,Small,Low
+833,2022-01-09,Panipuri,Fastfood,$20,2,$40,Online,Mrs.,Evening,Sunday,January,Small,Low
+834,2022-05-25,Sugarcane Juice,Beverages,$25,14,$350,Cash,Mr.,Evening,Wednesday,May,Large,High
+835,2022-09-27,Sugarcane Juice,Beverages,$25,7,$175,Online,Mr.,Afternoon,Tuesday,September,Medium,Medium
+836,2022-08-31,Vadapav,Fastfood,$20,2,$40,Cash,Mrs.,Midnight,Wednesday,August,Small,Low
+837,2022-05-19,Aalopuri,Fastfood,$20,7,$140,Cash,Mr.,Midnight,Thursday,May,Medium,Medium
+838,2022-07-31,Cold Coffee,Beverages,$40,9,$360,Online,Mrs.,Morning,Sunday,July,Medium,Medium
+839,2022-08-05,Sugarcane Juice,Beverages,$25,4,$100,Cash,Mrs.,Afternoon,Friday,August,Small,Low
+840,2023-02-18,Cold Coffee,Beverages,$40,15,$600,NULL,Mrs.,Midnight,Saturday,February,Large,High
+841,2023-03-02,Vadapav,Fastfood,$20,9,$180,Cash,Mr.,Night,Thursday,March,Medium,Medium
+842,2022-05-25,Panipuri,Fastfood,$20,2,$40,Cash,Mrs.,Evening,Wednesday,May,Small,Low
+843,2022-04-07,Sugarcane Juice,Beverages,$25,1,$25,Cash,Mrs.,Morning,Thursday,April,Small,Low
+844,2022-04-05,Sugarcane Juice,Beverages,$25,13,$325,Cash,Mr.,Morning,Tuesday,April,Large,High
+845,2022-01-07,Cold Coffee,Beverages,$40,6,$240,Online,Mrs.,Evening,Friday,January,Medium,Medium
+846,2022-04-20,Aalopuri,Fastfood,$20,5,$100,Online,Mr.,Afternoon,Wednesday,April,Small,Low
+847,2022-08-14,Panipuri,Fastfood,$20,11,$220,Online,Mr.,Midnight,Sunday,August,Large,High
+848,2022-10-11,Frankie,Fastfood,$50,9,$450,Cash,Mr.,Night,Tuesday,October,Medium,Medium
+849,2022-03-11,Cold Coffee,Beverages,$40,10,$400,Cash,Mrs.,Night,Friday,March,Medium,Medium
+850,2022-08-20,Vadapav,Fastfood,$20,3,$60,Online,Mrs.,Afternoon,Saturday,August,Small,Low
+851,2023-01-28,Aalopuri,Fastfood,$20,15,$300,Online,Mrs.,Night,Saturday,January,Large,High
+852,2022-05-05,Sugarcane Juice,Beverages,$25,8,$200,Online,Mr.,Night,Thursday,May,Medium,Medium
+853,2023-02-17,Cold Coffee,Beverages,$40,3,$120,Online,Mrs.,Midnight,Friday,February,Small,Low
+854,2022-10-14,Cold Coffee,Beverages,$40,14,$560,Online,Mrs.,Night,Friday,October,Large,High
+855,2022-10-23,Vadapav,Fastfood,$20,5,$100,Online,Mr.,Evening,Sunday,October,Small,Low
+856,2022-04-05,Aalopuri,Fastfood,$20,11,$220,Cash,Mrs.,Night,Tuesday,April,Large,High
+857,2022-08-11,Sugarcane Juice,Beverages,$25,14,$350,Online,Mrs.,Evening,Thursday,August,Large,High
+858,2022-11-22,Cold Coffee,Beverages,$40,9,$360,Cash,Mr.,Evening,Tuesday,November,Medium,Medium
+859,2022-08-10,Sandwich,Fastfood,$60,11,$660,Cash,Mrs.,Midnight,Wednesday,August,Large,High
+860,2022-07-16,Cold Coffee,Beverages,$40,5,$200,Cash,Mr.,Night,Saturday,July,Small,Low
+861,2023-01-24,Sugarcane Juice,Beverages,$25,8,$200,Cash,Mrs.,Night,Tuesday,January,Medium,Medium
+862,2023-10-03,Frankie,Fastfood,$50,7,$350,Online,Mr.,Night,Tuesday,October,Medium,Medium
+863,2022-08-09,Frankie,Fastfood,$50,9,$450,Online,Mr.,Night,Tuesday,August,Medium,Medium
+864,2022-08-20,Cold Coffee,Beverages,$40,9,$360,Online,Mr.,Morning,Saturday,August,Medium,Medium
+865,2023-01-23,Sugarcane Juice,Beverages,$25,6,$150,Cash,Mrs.,Night,Monday,January,Medium,Medium
+866,2022-08-13,Frankie,Fastfood,$50,10,$500,Online,Mr.,Midnight,Saturday,August,Medium,Medium
+867,2023-01-26,Frankie,Fastfood,$50,15,$750,Cash,Mr.,Midnight,Thursday,January,Large,High
+868,2022-08-17,Aalopuri,Fastfood,$20,13,$260,Cash,Mrs.,Evening,Wednesday,August,Large,High
+869,2022-06-26,Panipuri,Fastfood,$20,9,$180,Online,Mr.,Midnight,Sunday,June,Medium,Medium
+870,2022-10-31,Cold Coffee,Beverages,$40,5,$200,Online,Mrs.,Afternoon,Monday,October,Small,Low
+871,2022-07-12,Vadapav,Fastfood,$20,14,$280,NULL,Mrs.,Evening,Tuesday,July,Large,High
+872,2022-07-14,Sandwich,Fastfood,$60,12,$720,Cash,Mr.,Afternoon,Thursday,July,Large,High
+873,2022-09-05,Sugarcane Juice,Beverages,$25,1,$25,Online,Mr.,Night,Monday,September,Small,Low
+874,2022-09-05,Cold Coffee,Beverages,$40,4,$160,Cash,Mr.,Midnight,Monday,September,Small,Low
+875,2022-05-08,Vadapav,Fastfood,$20,15,$300,Cash,Mr.,Evening,Sunday,May,Large,High
+876,2022-10-06,Cold Coffee,Beverages,$40,8,$320,Online,Mrs.,Evening,Thursday,October,Medium,Medium
+877,2022-10-27,Sugarcane Juice,Beverages,$25,14,$350,Cash,Mrs.,Afternoon,Thursday,October,Large,High
+878,2022-12-08,Sandwich,Fastfood,$60,6,$360,Online,Mr.,Evening,Thursday,December,Medium,Medium
+879,2022-06-11,Cold Coffee,Beverages,$40,9,$360,Cash,Mrs.,Evening,Saturday,June,Medium,Medium
+880,2022-06-25,Sugarcane Juice,Beverages,$25,5,$125,Cash,Mrs.,Morning,Saturday,June,Small,Low
+881,2022-05-25,Sandwich,Fastfood,$60,2,$120,Cash,Mr.,Midnight,Wednesday,May,Small,Low
+882,2022-04-23,Panipuri,Fastfood,$20,9,$180,Online,Mr.,Morning,Saturday,April,Medium,Medium
+883,2022-08-24,Aalopuri,Fastfood,$20,5,$100,Online,Mrs.,Midnight,Wednesday,August,Small,Low
+884,2023-01-03,Vadapav,Fastfood,$20,12,$240,Online,Mr.,Night,Tuesday,January,Large,High
+885,2022-10-16,Sugarcane Juice,Beverages,$25,4,$100,Cash,Mr.,Evening,Sunday,October,Small,Low
+886,2022-07-21,Sugarcane Juice,Beverages,$25,4,$100,Cash,Mrs.,Night,Thursday,July,Small,Low
+887,2022-10-24,Aalopuri,Fastfood,$20,3,$60,Cash,Mr.,Morning,Monday,October,Small,Low
+888,2022-05-09,Vadapav,Fastfood,$20,8,$160,Cash,Mr.,Evening,Monday,May,Medium,Medium
+889,2022-12-04,Vadapav,Fastfood,$20,10,$200,Online,Mr.,Midnight,Sunday,December,Medium,Medium
+890,2023-03-03,Sugarcane Juice,Beverages,$25,5,$125,Cash,Mrs.,Morning,Friday,March,Small,Low
+891,2022-12-27,Cold Coffee,Beverages,$40,11,$440,Cash,Mr.,Midnight,Tuesday,December,Large,High
+892,2022-07-14,Sugarcane Juice,Beverages,$25,7,$175,Online,Mrs.,Evening,Thursday,July,Medium,Medium
+893,2022-07-13,Sugarcane Juice,Beverages,$25,12,$300,Cash,Mrs.,Afternoon,Wednesday,July,Large,High
+894,2023-03-19,Sandwich,Fastfood,$60,15,$900,Cash,Mr.,Morning,Sunday,March,Large,High
+895,2023-03-01,Sugarcane Juice,Beverages,$25,11,$275,Cash,Mr.,Afternoon,Wednesday,March,Large,High
+896,2022-10-30,Aalopuri,Fastfood,$20,13,$260,Cash,Mr.,Night,Sunday,October,Large,High
+897,2022-08-22,Aalopuri,Fastfood,$20,6,$120,Online,Mr.,Morning,Monday,August,Medium,Medium
+898,2023-02-03,Frankie,Fastfood,$50,8,$400,Cash,Mr.,Afternoon,Friday,February,Medium,Medium
+899,2023-01-24,Aalopuri,Fastfood,$20,7,$140,Cash,Mr.,Midnight,Tuesday,January,Medium,Medium
+900,2022-07-12,Sugarcane Juice,Beverages,$25,9,$225,Online,Mr.,Afternoon,Tuesday,July,Medium,Medium
+901,2022-12-24,Vadapav,Fastfood,$20,7,$140,Online,Mrs.,Morning,Saturday,December,Medium,Medium
+902,2022-11-23,Frankie,Fastfood,$50,4,$200,Online,Mr.,Afternoon,Wednesday,November,Small,Low
+903,2023-01-01,Aalopuri,Fastfood,$20,15,$300,Online,Mr.,Night,Sunday,January,Large,High
+904,2023-12-03,Aalopuri,Fastfood,$20,4,$80,Cash,Mrs.,Midnight,Sunday,December,Small,Low
+905,2022-12-13,Frankie,Fastfood,$50,15,$750,Cash,Mrs.,Midnight,Tuesday,December,Large,High
+906,2022-04-04,Sandwich,Fastfood,$60,15,$900,Cash,Mr.,Afternoon,Monday,April,Large,High
+907,2022-10-19,Cold Coffee,Beverages,$40,4,$160,NULL,Mrs.,Midnight,Wednesday,October,Small,Low
+908,2023-06-03,Sandwich,Fastfood,$60,7,$420,Cash,Mrs.,Night,Saturday,June,Medium,Medium
+909,2023-02-21,Cold Coffee,Beverages,$40,12,$480,Online,Mrs.,Morning,Tuesday,February,Large,High
+910,2022-09-10,Panipuri,Fastfood,$20,1,$20,Cash,Mrs.,Afternoon,Saturday,September,Small,Low
+911,2022-09-04,Sandwich,Fastfood,$60,1,$60,Cash,Mr.,Evening,Sunday,September,Small,Low
+912,2022-09-17,Aalopuri,Fastfood,$20,6,$120,Cash,Mr.,Evening,Saturday,September,Medium,Medium
+913,2023-02-15,Frankie,Fastfood,$50,15,$750,Online,Mr.,Evening,Wednesday,February,Large,High
+914,2023-01-03,Sandwich,Fastfood,$60,14,$840,Cash,Mr.,Night,Tuesday,January,Large,High
+915,2022-07-10,Cold Coffee,Beverages,$40,7,$280,Online,Mr.,Afternoon,Sunday,July,Medium,Medium
+916,2022-11-17,Cold Coffee,Beverages,$40,15,$600,NULL,Mrs.,Afternoon,Thursday,November,Large,High
+917,2022-05-15,Vadapav,Fastfood,$20,15,$300,Online,Mr.,Evening,Sunday,May,Large,High
+918,2022-12-11,Panipuri,Fastfood,$20,6,$120,Cash,Mr.,Evening,Sunday,December,Medium,Medium
+919,2023-03-01,Vadapav,Fastfood,$20,8,$160,Online,Mrs.,Evening,Wednesday,March,Medium,Medium
+920,2022-12-07,Frankie,Fastfood,$50,13,$650,Online,Mr.,Evening,Wednesday,December,Large,High
+921,2022-09-21,Vadapav,Fastfood,$20,14,$280,Cash,Mr.,Midnight,Wednesday,September,Large,High
+922,2022-06-13,Frankie,Fastfood,$50,5,$250,Online,Mrs.,Evening,Monday,June,Small,Low
+923,2022-05-30,Cold Coffee,Beverages,$40,3,$120,Online,Mr.,Morning,Monday,May,Small,Low
+924,2022-12-17,Panipuri,Fastfood,$20,14,$280,Cash,Mr.,Afternoon,Saturday,December,Large,High
+925,2022-10-04,Frankie,Fastfood,$50,4,$200,Online,Mrs.,Afternoon,Tuesday,October,Small,Low
+926,2023-02-27,Frankie,Fastfood,$50,15,$750,Cash,Mrs.,Afternoon,Monday,February,Large,High
+927,2022-02-12,Cold Coffee,Beverages,$40,6,$240,NULL,Mrs.,Evening,Saturday,February,Medium,Medium
+928,2022-07-04,Sandwich,Fastfood,$60,11,$660,Online,Mr.,Evening,Monday,July,Large,High
+929,2022-06-06,Frankie,Fastfood,$50,9,$450,Online,Mrs.,Night,Monday,June,Medium,Medium
+930,2022-11-27,Sugarcane Juice,Beverages,$25,10,$250,Online,Mr.,Night,Sunday,November,Medium,Medium
+931,2022-06-26,Aalopuri,Fastfood,$20,15,$300,Cash,Mr.,Afternoon,Sunday,June,Large,High
+932,2022-10-18,Sandwich,Fastfood,$60,9,$540,Online,Mr.,Afternoon,Tuesday,October,Medium,Medium
+933,2023-01-21,Sugarcane Juice,Beverages,$25,15,$375,Online,Mrs.,Afternoon,Saturday,January,Large,High
+934,2022-09-19,Cold Coffee,Beverages,$40,4,$160,Cash,Mrs.,Afternoon,Monday,September,Small,Low
+935,2023-02-17,Sandwich,Fastfood,$60,12,$720,Cash,Mr.,Midnight,Friday,February,Large,High
+936,2022-10-08,Panipuri,Fastfood,$20,2,$40,NULL,Mr.,Midnight,Saturday,October,Small,Low
+937,2022-06-22,Panipuri,Fastfood,$20,4,$80,Cash,Mr.,Night,Wednesday,June,Small,Low
+938,2022-10-08,Sugarcane Juice,Beverages,$25,14,$350,Cash,Mr.,Evening,Saturday,October,Large,High
+939,2023-02-19,Vadapav,Fastfood,$20,15,$300,Online,Mr.,Midnight,Sunday,February,Large,High
+940,2023-07-02,Sugarcane Juice,Beverages,$25,14,$350,Online,Mrs.,Midnight,Sunday,July,Large,High
+941,2023-10-02,Cold Coffee,Beverages,$40,10,$400,Online,Mrs.,Morning,Monday,October,Medium,Medium
+942,2022-07-20,Frankie,Fastfood,$50,6,$300,Cash,Mr.,Night,Wednesday,July,Medium,Medium
+943,2022-06-30,Vadapav,Fastfood,$20,6,$120,Cash,Mrs.,Night,Thursday,June,Medium,Medium
+944,2022-12-05,Aalopuri,Fastfood,$20,2,$40,Cash,Mr.,Midnight,Monday,December,Small,Low
+945,2022-05-15,Cold Coffee,Beverages,$40,2,$80,Online,Mrs.,Afternoon,Sunday,May,Small,Low
+946,2023-02-21,Sandwich,Fastfood,$60,8,$480,Cash,Mr.,Midnight,Tuesday,February,Medium,Medium
+947,2022-08-16,Aalopuri,Fastfood,$20,11,$220,Online,Mr.,Night,Tuesday,August,Large,High
+948,2023-01-16,Sandwich,Fastfood,$60,10,$600,Online,Mr.,Evening,Monday,January,Medium,Medium
+949,2023-07-01,Panipuri,Fastfood,$20,1,$20,Cash,Mrs.,Evening,Saturday,July,Small,Low
+950,2022-09-25,Frankie,Fastfood,$50,6,$300,Online,Mrs.,Evening,Sunday,September,Medium,Medium
+951,2022-11-11,Panipuri,Fastfood,$20,11,$220,Cash,Mrs.,Afternoon,Friday,November,Large,High
+952,2022-09-24,Aalopuri,Fastfood,$20,14,$280,Cash,Mrs.,Evening,Saturday,September,Large,High
+953,2022-10-11,Sandwich,Fastfood,$60,2,$120,Online,Mrs.,Afternoon,Tuesday,October,Small,Low
+954,2023-01-31,Aalopuri,Fastfood,$20,3,$60,Cash,Mrs.,Midnight,Tuesday,January,Small,Low
+955,2023-01-27,Sugarcane Juice,Beverages,$25,7,$175,Online,Mr.,Afternoon,Friday,January,Medium,Medium
+956,2022-04-30,Frankie,Fastfood,$50,13,$650,Online,Mr.,Morning,Saturday,April,Large,High
+957,2023-08-02,Panipuri,Fastfood,$20,3,$60,Online,Mrs.,Midnight,Wednesday,August,Small,Low
+958,2022-05-22,Sandwich,Fastfood,$60,11,$660,Online,Mrs.,Night,Sunday,May,Large,High
+959,2022-11-28,Vadapav,Fastfood,$20,8,$160,Online,Mrs.,Midnight,Monday,November,Medium,Medium
+960,2022-12-08,Sugarcane Juice,Beverages,$25,15,$375,Online,Mrs.,Evening,Thursday,December,Large,High
+961,2023-03-14,Frankie,Fastfood,$50,13,$650,Cash,Mr.,Night,Tuesday,March,Large,High
+962,2022-05-18,Frankie,Fastfood,$50,13,$650,Online,Mrs.,Afternoon,Wednesday,May,Large,High
+963,2022-05-10,Vadapav,Fastfood,$20,6,$120,Cash,Mrs.,Morning,Tuesday,May,Medium,Medium
+964,2022-07-05,Cold Coffee,Beverages,$40,8,$320,Cash,Mr.,Evening,Tuesday,July,Medium,Medium
+965,2022-08-10,Frankie,Fastfood,$50,5,$250,Online,Mrs.,Night,Wednesday,August,Small,Low
+966,2023-03-19,Panipuri,Fastfood,$20,11,$220,Online,Mrs.,Morning,Sunday,March,Large,High
+967,2022-06-29,Cold Coffee,Beverages,$40,14,$560,Cash,Mr.,Afternoon,Wednesday,June,Large,High
+968,2022-09-08,Cold Coffee,Beverages,$40,15,$600,Cash,Mrs.,Morning,Thursday,September,Large,High
+969,2022-06-11,Cold Coffee,Beverages,$40,11,$440,Cash,Mr.,Morning,Saturday,June,Large,High
+970,2022-11-21,Aalopuri,Fastfood,$20,5,$100,Online,Mrs.,Afternoon,Monday,November,Small,Low
+971,2022-02-10,Frankie,Fastfood,$50,2,$100,Cash,Mrs.,Morning,Thursday,February,Small,Low
+972,2023-11-03,Aalopuri,Fastfood,$20,1,$20,Cash,Mrs.,Afternoon,Friday,November,Small,Low
+973,2022-07-06,Sugarcane Juice,Beverages,$25,1,$25,NULL,Mrs.,Morning,Wednesday,July,Small,Low
+974,2023-01-28,Vadapav,Fastfood,$20,13,$260,Online,Mr.,Afternoon,Saturday,January,Large,High
+975,2023-01-15,Aalopuri,Fastfood,$20,1,$20,Cash,Mr.,Midnight,Sunday,January,Small,Low
+976,2022-04-17,Sugarcane Juice,Beverages,$25,11,$275,NULL,Mrs.,Morning,Sunday,April,Large,High
+977,2023-05-01,Aalopuri,Fastfood,$20,1,$20,Cash,Mr.,Evening,Monday,May,Small,Low
+978,2022-08-10,Frankie,Fastfood,$50,2,$100,Online,Mr.,Night,Wednesday,August,Small,Low
+979,2022-05-21,Aalopuri,Fastfood,$20,13,$260,Cash,Mrs.,Midnight,Saturday,May,Large,High
+980,2022-06-20,Vadapav,Fastfood,$20,9,$180,Online,Mr.,Morning,Monday,June,Medium,Medium
+981,2023-01-22,Panipuri,Fastfood,$20,15,$300,Online,Mr.,Midnight,Sunday,January,Large,High
+982,2023-03-30,Sugarcane Juice,Beverages,$25,14,$350,Cash,Mrs.,Night,Thursday,March,Large,High
+983,2023-03-17,Cold Coffee,Beverages,$40,10,$400,NULL,Mrs.,Night,Friday,March,Medium,Medium
+984,2023-07-01,Frankie,Fastfood,$50,3,$150,Cash,Mr.,Afternoon,Saturday,July,Small,Low
+985,2022-06-14,Frankie,Fastfood,$50,1,$50,Cash,Mrs.,Afternoon,Tuesday,June,Small,Low
+986,2022-04-30,Sugarcane Juice,Beverages,$25,13,$325,Online,Mr.,Night,Saturday,April,Large,High
+987,2023-04-01,Vadapav,Fastfood,$20,3,$60,Cash,Mrs.,Evening,Saturday,April,Small,Low
+988,2023-03-01,Frankie,Fastfood,$50,13,$650,NULL,Mrs.,Night,Wednesday,March,Large,High
+989,2022-11-10,Cold Coffee,Beverages,$40,13,$520,Cash,Mr.,Afternoon,Thursday,November,Large,High
+990,2022-11-24,Vadapav,Fastfood,$20,10,$200,Online,Mrs.,Morning,Thursday,November,Medium,Medium
+991,2023-01-18,Sandwich,Fastfood,$60,7,$420,Cash,Mrs.,Night,Wednesday,January,Medium,Medium
+992,2022-10-21,Sandwich,Fastfood,$60,5,$300,Cash,Mr.,Morning,Friday,October,Small,Low
+993,2022-07-17,Frankie,Fastfood,$50,3,$150,Online,Mrs.,Night,Sunday,July,Small,Low
+994,2022-01-11,Panipuri,Fastfood,$20,2,$40,Online,Mrs.,Evening,Tuesday,January,Small,Low
+995,2022-06-18,Sugarcane Juice,Beverages,$25,1,$25,Online,Mr.,Night,Saturday,June,Small,Low
+996,2023-03-19,Frankie,Fastfood,$50,10,$500,NULL,Mrs.,Evening,Sunday,March,Medium,Medium
+997,2022-09-20,Sandwich,Fastfood,$60,7,$420,NULL,Mr.,Evening,Tuesday,September,Medium,Medium
+998,2023-01-26,Sandwich,Fastfood,$60,13,$780,NULL,Mr.,Evening,Thursday,January,Large,High
+999,2022-08-27,Panipuri,Fastfood,$20,5,$100,NULL,Mrs.,Afternoon,Saturday,August,Small,Low
+1000,2022-05-29,Aalopuri,Fastfood,$20,3,$60,Online,Mrs.,Midnight,Sunday,May,Small,Low
