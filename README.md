@@ -7,8 +7,8 @@ This portfolio includes data analytics projects focused on operations, financial
 
 ## Projects
 
-### German Credit Risk Analytics
-Credit risk analysis project focused on customer segmentation and manual review support.
+### Loan Risk Analytics
+Loan analysis project focused on customer segmentation and manual review support.
 
 ### Fast-Food Operations Analytics
 Google Sheets project focused on workload, sales optimization, pivot tables, and dashboard creation.
