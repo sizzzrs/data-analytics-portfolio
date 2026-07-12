@@ -81,9 +81,9 @@ Key cleaning steps:
 
 ## Files
 
-- `fast_food_operations_analysis.xlsx`
-- `raw_data.csv`
-- `clean_data.csv`
+- `https://github.com/sizzzrs/data-analytics-portfolio/blob/main/fast-food-operations-analytics/workbook/workbook_v1.xlsx`
+- `https://github.com/sizzzrs/data-analytics-portfolio/blob/main/fast-food-operations-analytics/data/raw/Balaji%20Fast%20Food%20Sales.csv`
+- `https://github.com/sizzzrs/data-analytics-portfolio/blob/main/fast-food-operations-analytics/data/processed/cleaned_data_v1.csv`
 
 ## Links
 
